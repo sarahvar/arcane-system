@@ -4,7 +4,7 @@ export default function JinxSystemPage() {
   return (
     <div className="jinx-page">
       <header>
-        <h1>Jinx — Analyse Fonctionnelle</h1>
+        <h1>Powder et Jinx — Comprendre les deux modes internes</h1>
         <p>Un système construit autour de deux pôles identitaires opposés</p>
       </header>
       <section>

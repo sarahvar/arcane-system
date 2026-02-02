@@ -11,7 +11,7 @@ export function Welcome() {
           <ul>
             <li>
               <a href="/jinx" className="welcome-link">
-                Système Jinx
+                Système Powder et Jinx
               </a>
             </li>
           </ul>
