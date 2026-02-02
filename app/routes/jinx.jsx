@@ -18,9 +18,80 @@ export default function JinxSystemPage() {
           son mode de fonctionnement.
         </p>
       </section>
-
+     <img
+          src="/Jinx.png"
+          alt="Powder et Jinx — tension interne"
+          style={{
+            width: "100%",
+            maxWidth: "350px",
+            margin: "20px auto 40px",
+            display: "block",
+            borderRadius: "8px",
+            boxShadow: "0 0 20px #00eaff",
+          }}
+        />
+      {/* ⭐ SECTION DÉPLACÉE EN PREMIER */}
       <section>
-       <h2>Ce qui influence Jinx</h2>
+        <h2>Ce qui a construit Jinx</h2>
+        <ul>
+          <li>
+            <strong>Vi</strong> → rupture du système d’origine : son rejet de
+            Powder après la mort de Vander, Mylo et Claggor brise le dernier
+            lien stable et déclenche la scission Powder/Jinx.
+          </li>
+
+          <li>
+            <strong>Vander</strong> → perte du cadre protecteur : sa mort
+            supprime la dernière structure stable capable de contenir Powder.
+          </li>
+
+          <li>
+            <strong>Silco</strong> → reconstruction autour de{" "}
+            <strong>Jinx</strong> : il reforme le système en renforçant
+            l’attracteur Jinx et en bloquant Powder.
+          </li>
+
+          <li>
+            <strong>Mylo & Claggor</strong> → fragmentation interne : leur perte
+            crée une rupture irréversible dans la continuité identitaire.
+          </li>
+
+          <li>
+            <strong>Ekko</strong> → contraste identitaire : il renvoie à Powder
+            ce qu’elle aurait pu devenir, amplifiant le conflit interne.
+          </li>
+
+          <li>
+            <strong>Caitlyn</strong> → activation défensive : perçue comme une
+            menace sur Vi, elle déclenche une réaction Jinx immédiate.
+          </li>
+
+          <li>
+            <strong>Jayce</strong> → escalade du conflit : ses actions
+            militarisées renforcent la perception d’un monde hostile.
+          </li>
+
+          <li>
+            <strong>Piltover</strong> → pression externe : la ville représente
+            un système oppressif qui active systématiquement Jinx.
+          </li>
+
+          <li>
+            <strong>Zaun</strong> → adaptation extrême : l’environnement
+            chaotique pousse le système à privilégier la survie brute.
+          </li>
+
+          <li>
+            <strong>Hextech</strong> → amplification des réactions : la
+            technologie augmente la portée, l’intensité et l’imprévisibilité des
+            outputs.
+          </li>
+        </ul>
+      </section>
+
+      {/* ⭐ SECTION QUI PASSE APRÈS */}
+      <section>
+        <h2>Ce qui influence Jinx</h2>
         <ul>
           <li>
             <strong>Vi</strong> : élément central. Avec elle → activation{" "}
@@ -67,42 +138,29 @@ export default function JinxSystemPage() {
       </section>
 
       <section>
-  <h2>Comment Jinx réagit</h2>
+        <h2>Comment Jinx réagit</h2>
 
-  <img
-    src="/Jinx.png"
-    alt="Powder et Jinx — tension interne"
-    style={{
-      width: "100%",
-      maxWidth: "350px",
-      margin: "20px auto 40px",
-      display: "block",
-      borderRadius: "8px",
-      boxShadow: "0 0 20px #00eaff",
-    }}
-  />
+        <h3>Activation Powder</h3>
+        <ul>
+          <li>Réactions émotionnelles fortes</li>
+          <li>Blocages</li>
+          <li>Erreurs ou maladresses</li>
+        </ul>
 
-  <h3>Activation Powder</h3>
-  <ul>
-    <li>Réactions émotionnelles fortes</li>
-    <li>Blocages</li>
-    <li>Erreurs ou maladresses</li>
-  </ul>
+        <h3>Activation Jinx</h3>
+        <ul>
+          <li>Réactions rapides et extrêmes</li>
+          <li>Création d’armes ou gadgets imprévisibles</li>
+          <li>Neutralisation immédiate des menaces perçues</li>
+        </ul>
 
-  <h3>Activation Jinx</h3>
-  <ul>
-    <li>Réactions rapides et extrêmes</li>
-    <li>Création d’armes ou gadgets imprévisibles</li>
-    <li>Neutralisation immédiate des menaces perçues</li>
-  </ul>
-
-  <h3>Activation hybride (Powder ↔ Jinx)</h3>
-  <ul>
-    <li>Actions chaotiques mais orientées vers un but</li>
-    <li>Perception déformée</li>
-    <li>Décisions impulsives mais logiques dans le contexte</li>
-  </ul>
-</section>
+        <h3>Activation hybride (Powder ↔ Jinx)</h3>
+        <ul>
+          <li>Actions chaotiques mais orientées vers un but</li>
+          <li>Perception déformée</li>
+          <li>Décisions impulsives mais logiques dans le contexte</li>
+        </ul>
+      </section>
 
       <section>
         <h2>Jinx et Zaun</h2>
@@ -138,64 +196,6 @@ export default function JinxSystemPage() {
           renforce. Jinx est ainsi autant une conséquence de Zaun qu’une réponse
           systémique à Piltover.
         </p>
-      </section>
-
-      <section>
-        <h2>Arbre causal</h2>
-        <ul>
-          <li>
-            <strong>Vi</strong> → rupture du système d’origine : son rejet de
-            Powder après la mort de Vander, Mylo et Claggor brise le dernier
-            lien stable et déclenche la scission Powder/Jinx.
-          </li>
-
-          <li>
-            <strong>Vander</strong> → perte du cadre protecteur : sa mort
-            supprime la dernière structure stable capable de contenir Powder.
-          </li>
-
-          <li>
-            <strong>Silco</strong> → reconstruction autour de{" "}
-            <strong>Jinx</strong> : il reforme le système en renforçant
-            l’attracteur Jinx et en inhibant Powder.
-          </li>
-
-          <li>
-            <strong>Mylo & Claggor</strong> → fragmentation interne : leur perte
-            crée une rupture irréversible dans la continuité identitaire.
-          </li>
-
-          <li>
-            <strong>Ekko</strong> → contraste identitaire : il renvoie à Powder
-            ce qu’elle aurait pu devenir, amplifiant le conflit interne.
-          </li>
-
-          <li>
-            <strong>Caitlyn</strong> → activation défensive : perçue comme une
-            menace sur Vi, elle déclenche une réaction Jinx immédiate.
-          </li>
-
-          <li>
-            <strong>Jayce</strong> → escalade du conflit : ses actions
-            militarisées renforcent la perception d’un monde hostile.
-          </li>
-
-          <li>
-            <strong>Piltover</strong> → pression externe : la ville représente
-            un système oppressif qui active systématiquement Jinx.
-          </li>
-
-          <li>
-            <strong>Zaun</strong> → adaptation extrême : l’environnement
-            chaotique pousse le système à privilégier la survie brute.
-          </li>
-
-          <li>
-            <strong>Hextech</strong> → amplification des réactions : la
-            technologie augmente la portée, l’intensité et l’imprévisibilité des
-            outputs.
-          </li>
-        </ul>
       </section>
 
       <section>
