@@ -50,6 +50,7 @@
 .jinx-page section ul {
   padding-left: 1.2rem;
   margin-top: 1rem;
+  font-size: 1rem;
 }
 
 .jinx-page li {
@@ -80,7 +81,7 @@
 .pattern-block {
   background: #111;
   color: white;
-  padding: 1.2rem;
+  padding: 2.2rem;
   border-radius: 8px;
   width: 180px; /* même largeur que .node */
 }
@@ -146,11 +147,11 @@
 }
 
 /* Couleurs */
-.vi { background: #4a6cff; }
-.powder { background: #7aa0ff; }
-.jinx { background: #8a2be2; }
-.silco { background: #222; }
-.caitlyn { background: #5a8fff; }
+.vi { background: #6c7dff; }       /* bleu plus doux */
+.powder { background: #7a8fb0; }
+.jinx { background: #a57be8; }     /* violet adouci */
+.silco { background: #2e2e2e; }    /* gris profond, moins dur que #222 */
+.caitlyn { background: #8ab0ff; }  /* bleu clair, moins vif */
 
 @media (max-width: 600px) {
   .patterns-map {
