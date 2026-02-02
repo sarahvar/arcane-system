@@ -14,20 +14,20 @@
 .jinx-page h1 {
   font-size: 2.5rem;
   margin-bottom: 10px;
-  color: #00eaff; /* bleu Jinx */
+  color: #00eaff;
 }
 
 .jinx-page h2 {
   margin-top: 30px;
   margin-bottom: 10px;
   font-size: 1.6rem;
-  color: #4df3ff; /* cyan glitch */
+  color: #4df3ff;
 }
 
 .jinx-page h3 {
   margin-top: 20px;
   font-size: 1.2rem;
-  color: #00bcd4; /* bleu électrique */
+  color: #00bcd4;
 }
 
 .jinx-page ul {
@@ -38,17 +38,20 @@
 .jinx-page section {
   margin-bottom: 30px;
 }
-section ul li {
+
+.jinx-page section ul li {
   margin-bottom: 1.3rem;
   line-height: 1.65;
   padding-left: 0.4rem;
   border-left: 0.15rem solid #00eaff22;
 }
 
-section ul {
+/* ⭐ La règle qui débordait — maintenant encapsulée */
+.jinx-page section ul {
   padding-left: 1.2rem;
   margin-top: 1rem;
 }
+
 .jinx-page li {
   list-style: none;
 }
