@@ -12,24 +12,28 @@ export default function JinxSystemPage() {
         <h2>Système interne</h2>
         <p>
           Jinx n’est pas “une personne instable”, mais un système qui oscille
-          entre deux états internes : Powder et Jinx. Ces deux états ne peuvent
-          pas fonctionner ensemble, et le système passe de l’un à l’autre selon
-          ce qui se passe autour d’elle. L’instabilité n’est pas un bug : c’est
-          son mode de fonctionnement.
+          entre deux états internes : Powder et Jinx.
+        </p>
+
+        <p>
+          Powder et Jinx ne peuvent pas fonctionner ensemble de manière stable.
+          Mais dans certaines situations extrêmes, les deux s’activent en même
+          temps, ce qui crée une surcharge et un état chaotique. L’instabilité
+          n’est pas un bug : c’est son mode de fonctionnement.
         </p>
       </section>
-     <img
-          src="/Jinx.png"
-          alt="Powder et Jinx — tension interne"
-          style={{
-            width: "100%",
-            maxWidth: "350px",
-            margin: "20px auto 40px",
-            display: "block",
-            borderRadius: "8px",
-            boxShadow: "0 0 20px #00eaff",
-          }}
-        />
+      <img
+        src="/Jinx.png"
+        alt="Powder et Jinx — tension interne"
+        style={{
+          width: "100%",
+          maxWidth: "350px",
+          margin: "20px auto 40px",
+          display: "block",
+          borderRadius: "8px",
+          boxShadow: "0 0 20px #00eaff",
+        }}
+      />
       {/* ⭐ SECTION DÉPLACÉE EN PREMIER */}
       <section>
         <h2>Ce qui a construit Jinx</h2>
