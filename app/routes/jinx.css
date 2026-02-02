@@ -153,6 +153,14 @@
 .caitlyn { background: #8ab0ff; }  /* bleu clair, moins vif */
 
 @media (max-width: 600px) {
+
+  .jinx-page section ul li {
+    margin-bottom: 1.3rem;
+    line-height: 1.65;
+    padding-left: 0.4rem;
+    border-left: 0.15rem solid #00eaff22;
+    margin-right: 1.3rem;
+}
   .patterns-map {
     display: grid;
     grid-template-columns: 1fr;
