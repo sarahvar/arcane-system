@@ -61,6 +61,13 @@
 .interactions-section .character-block h3 {
   color: #ffe066; /* jaune doux lisible */
 }
+.character-block h3 {
+  padding: 1rem 0.8rem; /* espace autour du titre */
+}
+
+.detail h4 {
+  padding: 0.3rem 1.1rem; /* espace autour du sous-titre */
+}
 .patterns-map {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
