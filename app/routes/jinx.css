@@ -16,7 +16,67 @@
   margin-bottom: 10px;
   color: #00eaff;
 }
+/* état par défaut : sections fermées */
+section {
+  padding: 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  overflow: hidden;
+}
 
+section h2 {
+  font-size: 1.9rem;
+  font-weight: 700;
+  margin: 0;
+  padding: 1.5rem 0;
+  color: #e3e3e3;
+  letter-spacing: 0.5px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+section h2::after {
+  content: "▸";
+  font-size: 1.3rem;
+  color: #cfcfcf;
+  transition: transform 0.25s ease;
+}
+
+section.open h2::after {
+  transform: rotate(90deg);
+}
+
+section > *:not(h2) {
+  max-height: 0;
+  opacity: 0;
+  transition: max-height 0.3s ease, opacity 0.25s ease;
+}
+
+section.open > *:not(h2) {
+  max-height: 2000px; /* assez large pour tout ton contenu */
+  opacity: 1;
+  padding-bottom: 1.5rem;
+}
+
+section p {
+  font-size: 1.05rem;
+  line-height: 1.65;
+  margin-bottom: 1.2rem;
+  color: #cfcfcf;
+}
+
+section ul {
+  margin: 1rem 0 1.5rem 1.2rem;
+  padding: 0;
+  list-style: disc;
+}
+
+section ul li {
+  margin-bottom: 0.4rem;
+  font-size: 1.05rem;
+  color: #cfcfcf;
+}
 .jinx-page h2 {
   margin-top: 30px;
   margin-bottom: 10px;

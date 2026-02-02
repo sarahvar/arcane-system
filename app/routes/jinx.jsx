@@ -1,12 +1,25 @@
 import "./jinx.css";
 
+import { useEffect } from "react";
+
 export default function JinxSystemPage() {
+  useEffect(() => {
+    document.querySelectorAll("section > h2").forEach((title) => {
+      const section = title.parentElement;
+
+      title.addEventListener("click", () => {
+        section.classList.toggle("open");
+      });
+    });
+  }, []);
+
   return (
     <div className="jinx-page">
       <header>
         <h1>Powder et Jinx — Comprendre les deux modes internes</h1>
         <p>Un système construit autour de deux pôles identitaires opposés</p>
       </header>
+
       <section>
         <h2>Système interne</h2>
 
@@ -480,7 +493,202 @@ export default function JinxSystemPage() {
           systémique à Piltover.
         </p>
       </section>
+      <section>
+        <h2>Jinx comme système géopolitique : Zaun incarné</h2>
 
+        <p>
+          Jinx n’est pas une figure isolée dans Arcane. Elle est la conséquence
+          directe d’un environnement géopolitique instable : Zaun. Le territoire
+          produit des individus façonnés par la pauvreté structurelle, l’absence
+          d’autorité centrale, la violence systémique et l’exploitation par
+          Piltover. Jinx n’est pas un symbole abstrait : elle est la
+          matérialisation logique d’un système en effondrement.
+        </p>
+
+        <p>
+          La transition Powder → Jinx correspond à la transformation de Zaun
+          vulnérable en Zaun radicalisé. Powder représente la population
+          fragile, dépendante de figures locales comme Vander, vivant dans un
+          tissu social instable. Jinx incarne la version militarisée du
+          territoire : une réponse chaotique née de la perte des stabilisateurs
+          internes et de la montée des extrêmes. Silco agit comme un proto-État,
+          convertissant la douleur en ressource politique et la violence en
+          stratégie.
+        </p>
+        <p>
+          Dans la saison 1, l’attaque finale de Jinx contre le Conseil n’est pas
+          un acte individuel mais un événement géopolitique. Elle marque le
+          point de non-retour entre Piltover et Zaun : décennies d’exploitation,
+          absence de dialogue, radicalisation progressive et disparition des
+          médiateurs. Jinx incarne la rupture définitive d’un ordre déjà
+          fracturé.
+        </p>
+      </section>
+
+      <section>
+        <h2>Piltover → Zaun : structure de domination</h2>
+
+        <p>
+          Piltover maintient Zaun dans une position subordonnée : contrôle des
+          ressources, hiérarchie technologique, exploitation économique et
+          absence de représentation politique. Cette relation crée un
+          déséquilibre permanent qui alimente la frustration, la colère et la
+          radicalisation. Jinx est une réponse née de cette dynamique : un
+          produit d’un territoire écrasé par un pouvoir supérieur.
+        </p>
+
+        <p>
+          La domination de Piltover n’est pas frontale mais structurelle : elle
+          s’exerce par l’accès inégal aux technologies, la gestion des flux
+          commerciaux, la surveillance indirecte et la dépendance économique.
+          Zaun n’a pas les moyens de se stabiliser, ce qui rend inévitable
+          l’émergence d’acteurs extrêmes.
+        </p>
+      </section>
+
+      <section>
+        <h2>Structure interne de Zaun</h2>
+
+        <p>
+          Zaun n’est pas un bloc homogène. C’est un ensemble fragmenté composé
+          de zones, de factions, de réseaux et d’intérêts divergents. L’absence
+          d’autorité centrale crée un espace où les alliances sont temporaires,
+          les conflits fréquents et la survie prioritaire. Cette fragmentation
+          rend impossible toute stabilisation durable.
+        </p>
+
+        <ul>
+          <li>Factions locales : gangs, ateliers, milices</li>
+          <li>
+            Zones différenciées : quartiers industriels, zones toxiques, refuges
+          </li>
+          <li>Économie parallèle : chimtech, contrebande, récupération</li>
+          <li>
+            Hiérarchies mouvantes : pouvoir basé sur la force et les ressources
+          </li>
+          <li>Absence de médiateurs stables après la chute de Vander</li>
+        </ul>
+
+        <p>
+          Dans ce contexte, Jinx n’est pas une anomalie : elle est une
+          expression cohérente d’un territoire où la stabilité est impossible et
+          où la violence devient un mode d’existence.
+        </p>
+      </section>
+
+      <section className="patterns-section">
+        <h2>Patterns géopolitiques : Zaun ↔ Jinx</h2>
+        <p>
+          Cette carte montre les structures internes avant les interactions.
+          Elle relie le territoire (Zaun) et son expression incarnée (Jinx) à
+          travers des patterns fonctionnels qui se renforcent mutuellement.
+        </p>
+
+        <div className="patterns-map">
+          <div className="pattern-block powder-block">
+            <h3>Zaun vulnérable (Powder)</h3>
+            <ul>
+              <li>Pauvreté structurelle et dépendance économique</li>
+              <li>Absence d’autorité centrale ou de régulation</li>
+              <li>Figures locales comme stabilisateurs (Vander)</li>
+              <li>Fragilité du tissu social et des alliances</li>
+              <li>Population exposée aux décisions de Piltover</li>
+            </ul>
+          </div>
+
+          <div className="pattern-link">
+            <span>Zaun ↔ Jinx</span>
+            <small>Transformation, militarisation, rupture</small>
+          </div>
+
+          <div className="pattern-block jinx-block">
+            <h3>Zaun radicalisé (Jinx)</h3>
+            <ul>
+              <li>Militarisation de la douleur par Silco</li>
+              <li>Créativité explosive : armes, chimtech, sabotage</li>
+              <li>Lecture permanente de menace (Piltover = oppresseur)</li>
+              <li>Actions asymétriques contre un pouvoir supérieur</li>
+              <li>Absence de médiation → logique de rupture totale</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <section>
+        <h2>Silco : proto-État et catalyseur</h2>
+
+        <p>
+          Silco fonctionne comme un acteur para-étatique : il structure une
+          idéologie, centralise la violence, organise une économie parallèle et
+          crée une identité collective pour Zaun. Il ne cherche pas à manipuler
+          Jinx mais à stabiliser un mode interne déjà présent, en le
+          transformant en force stratégique.
+        </p>
+
+        <p>
+          Son pouvoir repose sur trois éléments : la maîtrise de la chimtech, la
+          capacité à fédérer des factions instables et la transformation de la
+          douleur en ressource politique. Jinx devient alors un vecteur central
+          de son projet : une arme, un symbole et un message.
+        </p>
+      </section>
+
+      <section>
+        <h2>Point de non-retour : logique asymétrique</h2>
+
+        <p>
+          L’attaque finale de Jinx suit une logique asymétrique : un acteur
+          faible frappe un acteur dominant en ciblant un point symbolique. Ce
+          n’est pas une explosion impulsive mais la conclusion d’un enchaînement
+          de ruptures : marginalisation, montée des extrêmes, disparition des
+          médiateurs et impossibilité totale de dialogue.
+        </p>
+
+        <p>
+          Jinx n’agit pas contre Piltover en tant que ville, mais contre un
+          système qui a rendu toute coexistence impossible. Elle incarne la
+          rupture que Zaun n’a jamais pu formuler politiquement. Son geste est
+          la traduction directe d’un territoire qui n’a plus rien à perdre.
+        </p>
+      </section>
+      <section>
+        <h2>Vi ↔ Jinx : fracture interne de Zaun</h2>
+        <p>
+          La relation entre Vi et Jinx n’est pas un simple conflit personnel. Vi
+          représente la continuité de Powder : un lien ancien, préservé malgré
+          l’effondrement du territoire. Jinx, elle, incarne la version
+          radicalisée née de Zaun après la chute des stabilisateurs internes.
+          Leur opposition n’est pas idéologique : Vi cherche à restaurer un mode
+          antérieur, tandis que Jinx fonctionne selon la logique d’un
+          environnement où la rupture est devenue la seule réponse possible.
+        </p>
+        <p>
+          Vi cherche à maintenir un lien, à préserver une continuité avec le
+          Zaun vulnérable d’avant la chute. Jinx, elle, fonctionne comme
+          l’expression d’un Zaun qui a perdu ses médiateurs, ses repères et ses
+          structures internes. Leur opposition n’est pas morale : elle est
+          structurelle. Elles représentent deux réponses divergentes à un même
+          environnement instable.
+        </p>
+
+        <p>
+          Cette fracture interne affaiblit Zaun. Vi porte la mémoire d’un
+          territoire qui aurait pu se stabiliser. Jinx porte la logique d’un
+          territoire qui n’a plus rien à perdre. Leur confrontation est
+          l’illustration d’un conflit géopolitique interne : cohésion contre
+          fragmentation, reconstruction contre radicalisation, continuité contre
+          rupture.
+        </p>
+
+        <p>
+          Dans cette dynamique, Jinx ne s’oppose pas à Vi : elle fonctionne
+          selon la logique d’un Zaun transformé par la perte de ses
+          stabilisateurs internes. Vi ne s’oppose pas à Jinx : elle porte la
+          continuité d’un mode antérieur, formé avant la fragmentation du
+          territoire. Leur relation exprime deux trajectoires issues du même
+          environnement mais devenues incompatibles lorsque Zaun s’est effondré.
+        </p>
+      </section>
       <section>
         <h2>Synthèse</h2>
         <p>
