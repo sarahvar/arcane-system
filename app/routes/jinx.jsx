@@ -219,7 +219,100 @@ export default function JinxSystemPage() {
           </div>
         </div>
       </section>
+      {/* ⭐ SECTION AJOUTÉE : POWDER */}
+      <section>
+        <h2>Ce qui a construit Powder</h2>
+        <ul>
+          <li>
+            <strong>Vi</strong> → base identitaire et sécurité primaire : Powder
+            se construit autour de la protection de Vi, créant une dépendance
+            structurelle.
+          </li>
 
+          <li>
+            <strong>Vander</strong> → cadre protecteur : il fournit la stabilité
+            permettant à Powder d’exister sans danger. Sa mort provoque un
+            effondrement du système.
+          </li>
+
+          <li>
+            <strong>Mylo</strong> → invalidation : ses critiques renforcent le
+            sentiment d’incompétence et fragilisent Powder.
+          </li>
+
+          <li>
+            <strong>Claggor</strong> → stabilité émotionnelle : sa présence
+            soutient Powder. Sa perte crée une rupture brutale dans la
+            continuité interne.
+          </li>
+
+          <li>
+            <strong>Ekko</strong> → miroir positif : il représente ce que Powder
+            aurait pu devenir, créant un écart douloureux.
+          </li>
+
+          <li>
+            <strong>Zaun (enfant)</strong> → chaos : l’environnement instable
+            pousse Powder à chercher un repère externe (Vi, Vander).
+          </li>
+
+          <li>
+            <strong>Piltover (enfant)</strong> → sentiment d’infériorité : monde
+            perçu comme inaccessible, renforçant la fragilité identitaire.
+          </li>
+
+          <li>
+            <strong>Trauma initial</strong> → fragmentation : l’explosion
+            détruit la continuité interne et ouvre la voie au mode Jinx.
+          </li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>Ce qui influence Powder</h2>
+        <ul>
+          <li>
+            <strong>Vi</strong> → réactivation directe : le nom “Powder”, les
+            gestes de protection et la proximité ramènent immédiatement le mode
+            vulnérable.
+          </li>
+
+          <li>
+            <strong>Silco</strong> → suppression : il renforce Jinx et étouffe
+            Powder, incompatible avec son modèle.
+          </li>
+
+          <li>
+            <strong>Caitlyn</strong> → menace sur Vi : active la panique et la
+            dépendance.
+          </li>
+
+          <li>
+            <strong>Ekko</strong> → rappel identitaire : réactive honte +
+            nostalgie.
+          </li>
+
+          <li>
+            <strong>Trauma</strong> → surcharge : Powder et Jinx s’activent en
+            même temps, créant une oscillation interne.
+          </li>
+
+          <li>
+            <strong>Piltover</strong> → inhibition : Powder se replie, se sent
+            illégitime.
+          </li>
+
+          <li>
+            <strong>Zaun</strong> → activation partielle : environnement
+            familier, mais Powder reste fragile.
+          </li>
+
+          <li>
+            <strong>Hextech</strong> → effacement : trop dangereux/complexe,
+            Powder se retire et laisse la place à Jinx.
+          </li>
+        </ul>
+      </section>
       {/* ⭐ SECTION DÉPLACÉE EN PREMIER */}
       <section>
         <h2>Ce qui a construit Jinx</h2>
