@@ -27,6 +27,40 @@ export default function JinxSystemPage() {
           apparaît, mais un état chaotique issu de son histoire.
         </p>
       </section>
+      <section className="patterns-section">
+        <h2>Patterns internes : Powder ↔ Jinx</h2>
+        <p>
+          Cette carte montre ce qui existe avant les interactions. C’est la base
+          structurelle du personnage.
+        </p>
+
+        <div className="patterns-map">
+          <div className="pattern-block powder-block">
+            <h3>Patterns Powder</h3>
+            <ul>
+              <li>Dépendance structurelle</li>
+              <li>Créativité instable</li>
+              <li>Lecture binaire du lien</li>
+              <li>Fragilité du mode</li>
+            </ul>
+          </div>
+
+          <div className="pattern-link">
+            <span>Powder ↔ Jinx</span>
+            <small>Coexistence + Collision interne</small>
+          </div>
+
+          <div className="pattern-block jinx-block">
+            <h3>Patterns Jinx</h3>
+            <ul>
+              <li>Autonomie radicale</li>
+              <li>Créativité explosive</li>
+              <li>Lecture de menace</li>
+              <li>Dominance du pattern renforcé</li>
+            </ul>
+          </div>
+        </div>
+      </section>
       <img
         src="/Jinx.png"
         alt="Powder et Jinx — tension interne"
@@ -39,6 +73,74 @@ export default function JinxSystemPage() {
           boxShadow: "0 0 20px #00eaff",
         }}
       />
+      <section className="interactions-section">
+        <h2>Patterns liés aux interactions : Vi, Silco, Caitlyn</h2>
+        <p>
+          Cette carte montre comment les forces externes activent ou perturbent
+          les patterns internes de Powder et Jinx.
+        </p>
+
+        <div className="interactions-flow">
+          <div className="flow-block vi">
+            <h3>Vi</h3>
+            <p>
+              Réactive Powder
+              <br />
+              Refuse Jinx
+              <br />
+              Pattern “protéger”
+            </p>
+            <div className="arrow-down">↓</div>
+          </div>
+
+          <div className="flow-block powder">
+            <h3>Powder</h3>
+            <p>
+              Pattern d’origine
+              <br />
+              Réactivée par Vi
+              <br />
+              Collision avec Jinx
+            </p>
+            <div className="arrow-down">↓</div>
+          </div>
+
+          <div className="flow-block jinx">
+            <h3>Jinx</h3>
+            <p>
+              Pattern renforcé
+              <br />
+              Stabilisé par Silco
+              <br />
+              Déstabilisé par Vi + Caitlyn
+            </p>
+            <div className="arrow-down">↓</div>
+          </div>
+
+          <div className="flow-block silco">
+            <h3>Silco</h3>
+            <p>
+              Renforce Jinx
+              <br />
+              Bloque Powder
+              <br />
+              Stabilise le mode dominant
+            </p>
+          </div>
+
+          <div className="flow-block caitlyn">
+            <h3>Caitlyn</h3>
+            <p>
+              Déclenche “substitution”
+              <br />
+              Active Powder + Jinx
+              <br />
+              Surcharge interne
+            </p>
+          </div>
+        </div>
+      </section>
+
       {/* ⭐ SECTION DÉPLACÉE EN PREMIER */}
       <section>
         <h2>Ce qui a construit Jinx</h2>
