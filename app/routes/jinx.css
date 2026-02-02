@@ -38,7 +38,7 @@ section h2 {
 
 section h2::after {
   content: "▸";
-  font-size: 1.3rem;
+  font-size: 3rem;
   color: #cfcfcf;
   transition: transform 0.25s ease;
 }
