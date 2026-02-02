@@ -76,67 +76,236 @@ export default function JinxSystemPage() {
       <section className="interactions-section">
         <h2>Patterns liés aux interactions : Vi, Silco, Caitlyn</h2>
         <p>
-          Cette carte montre comment les forces externes activent ou perturbent
-          les patterns internes de Powder et Jinx.
+          Carte détaillée des forces externes et de leurs effets sur Powder et
+          Jinx.
         </p>
 
-        <div className="interactions-flow">
-          <div className="flow-block vi">
-            <h3>Vi</h3>
-            <p>
-              Réactive Powder
-              <br />
-              Refuse Jinx
-              <br />
-              Pattern “protéger”
-            </p>
-            <div className="arrow-down">↓</div>
+        <div className="interactions-detailed">
+          {/* VI */}
+          <div className="character-block vi">
+            <h3>Vi — Force externe / Lien originel</h3>
+
+            <div className="detail">
+              <h4>Déclencheurs</h4>
+              <ul>
+                <li>Retour dans l’environnement de Jinx</li>
+                <li>Contact direct (nom, souvenirs, gestes)</li>
+                <li>Activation du lien originel</li>
+              </ul>
+            </div>
+
+            <div className="detail">
+              <h4>Effets directs</h4>
+              <ul>
+                <li>Réactive Powder</li>
+                <li>Refuse Jinx</li>
+              </ul>
+            </div>
+
+            <div className="detail">
+              <h4>Effets internes</h4>
+              <ul>
+                <li>Powder remonte → Jinx se contracte</li>
+                <li>Mode “régression”</li>
+              </ul>
+            </div>
+
+            <div className="detail">
+              <h4>Collisions</h4>
+              <ul>
+                <li>
+                  Powder (besoin d’être aimée) ↔ Jinx (besoin d’être forte)
+                </li>
+              </ul>
+            </div>
+
+            <div className="detail">
+              <h4>Conséquences</h4>
+              <ul>
+                <li>Instabilité interne</li>
+                <li>Surcharge émotionnelle</li>
+              </ul>
+            </div>
           </div>
 
-          <div className="flow-block powder">
-            <h3>Powder</h3>
-            <p>
-              Pattern d’origine
-              <br />
-              Réactivée par Vi
-              <br />
-              Collision avec Jinx
-            </p>
-            <div className="arrow-down">↓</div>
+          {/* POWDER */}
+          <div className="character-block powder">
+            <h3>Powder — Pattern interne réactivé</h3>
+
+            <div className="detail">
+              <h4>Déclencheurs</h4>
+              <ul>
+                <li>Vi</li>
+                <li>Gestes de protection</li>
+                <li>Souvenirs du lien originel</li>
+              </ul>
+            </div>
+
+            <div className="detail">
+              <h4>Effets directs</h4>
+              <ul>
+                <li>Régression</li>
+                <li>Dépendance structurelle</li>
+              </ul>
+            </div>
+
+            <div className="detail">
+              <h4>Effets internes</h4>
+              <ul>
+                <li>Activation du mode “appel”</li>
+                <li>Hyper-sensibilité</li>
+              </ul>
+            </div>
+
+            <div className="detail">
+              <h4>Collisions</h4>
+              <ul>
+                <li>Powder veut être aimée ↔ Jinx veut être forte</li>
+              </ul>
+            </div>
+
+            <div className="detail">
+              <h4>Conséquences</h4>
+              <ul>
+                <li>Instabilité</li>
+                <li>Déclenchement du mode Jinx</li>
+              </ul>
+            </div>
           </div>
 
-          <div className="flow-block jinx">
-            <h3>Jinx</h3>
-            <p>
-              Pattern renforcé
-              <br />
-              Stabilisé par Silco
-              <br />
-              Déstabilisé par Vi + Caitlyn
-            </p>
-            <div className="arrow-down">↓</div>
+          {/* JINX */}
+          <div className="character-block jinx">
+            <h3>Jinx — Pattern dominant</h3>
+
+            <div className="detail">
+              <h4>Déclencheurs</h4>
+              <ul>
+                <li>Danger</li>
+                <li>Rejet</li>
+                <li>Silco</li>
+                <li>Caitlyn</li>
+              </ul>
+            </div>
+
+            <div className="detail">
+              <h4>Effets directs</h4>
+              <ul>
+                <li>Prise de contrôle</li>
+                <li>Hyper-vigilance</li>
+              </ul>
+            </div>
+
+            <div className="detail">
+              <h4>Effets internes</h4>
+              <ul>
+                <li>Écrasement de Powder</li>
+                <li>Mode “survie”</li>
+              </ul>
+            </div>
+
+            <div className="detail">
+              <h4>Collisions</h4>
+              <ul>
+                <li>Powder remonte → Jinx se rigidifie</li>
+              </ul>
+            </div>
+
+            <div className="detail">
+              <h4>Conséquences</h4>
+              <ul>
+                <li>Mode dominant verrouillé</li>
+                <li>Dépendance à Silco</li>
+              </ul>
+            </div>
           </div>
 
-          <div className="flow-block silco">
-            <h3>Silco</h3>
-            <p>
-              Renforce Jinx
-              <br />
-              Bloque Powder
-              <br />
-              Stabilise le mode dominant
-            </p>
+          {/* SILCO */}
+          <div className="character-block silco">
+            <h3>Silco — Stabilisateur externe</h3>
+
+            <div className="detail">
+              <h4>Déclencheurs</h4>
+              <ul>
+                <li>Peur</li>
+                <li>Fragilité de Jinx</li>
+              </ul>
+            </div>
+
+            <div className="detail">
+              <h4>Effets directs</h4>
+              <ul>
+                <li>Renforce Jinx</li>
+                <li>Valide son identité</li>
+              </ul>
+            </div>
+
+            <div className="detail">
+              <h4>Effets internes</h4>
+              <ul>
+                <li>Powder étouffée</li>
+                <li>Stabilisation temporaire</li>
+              </ul>
+            </div>
+
+            <div className="detail">
+              <h4>Collisions</h4>
+              <ul>
+                <li>Stabilise Jinx ↔ empêche Powder d’exister</li>
+              </ul>
+            </div>
+
+            <div className="detail">
+              <h4>Conséquences</h4>
+              <ul>
+                <li>Mode Jinx verrouillé</li>
+                <li>Fragilité extrême en cas de perte</li>
+              </ul>
+            </div>
           </div>
 
-          <div className="flow-block caitlyn">
-            <h3>Caitlyn</h3>
-            <p>
-              Déclenche “substitution”
-              <br />
-              Active Powder + Jinx
-              <br />
-              Surcharge interne
-            </p>
+          {/* CAITLYN */}
+          <div className="character-block caitlyn">
+            <h3>Caitlyn — Perturbatrice / Substitution</h3>
+
+            <div className="detail">
+              <h4>Déclencheurs</h4>
+              <ul>
+                <li>Proximité avec Vi</li>
+                <li>Menace de remplacement</li>
+              </ul>
+            </div>
+
+            <div className="detail">
+              <h4>Effets directs</h4>
+              <ul>
+                <li>Déclenche le mode “substitution”</li>
+                <li>Active Powder + Jinx</li>
+              </ul>
+            </div>
+
+            <div className="detail">
+              <h4>Effets internes</h4>
+              <ul>
+                <li>Double activation</li>
+                <li>Surcharge</li>
+              </ul>
+            </div>
+
+            <div className="detail">
+              <h4>Collisions</h4>
+              <ul>
+                <li>Powder : peur de perdre Vi</li>
+                <li>Jinx : éliminer la menace</li>
+              </ul>
+            </div>
+
+            <div className="detail">
+              <h4>Conséquences</h4>
+              <ul>
+                <li>Instabilité maximale</li>
+                <li>Risque de bascule violente</li>
+              </ul>
+            </div>
           </div>
         </div>
       </section>
