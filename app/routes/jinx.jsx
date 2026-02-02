@@ -74,6 +74,39 @@ export default function JinxSystemPage() {
           </div>
         </div>
       </section>
+      <section>
+        <h2>Attracteurs internes : Powder ↔ Jinx ↔ Hybride</h2>
+
+        <p>
+          Le système interne fonctionne autour de trois attracteurs. Ils ne sont
+          pas des états émotionnels, mais des modes fonctionnels activés selon
+          la pression externe et la charge interne.
+        </p>
+
+        <h3>Attracteur Powder</h3>
+        <ul>
+          <li>Activation : lien, protection, rappel du passé</li>
+          <li>Mode : vulnérabilité, dépendance, recherche de stabilité</li>
+          <li>Condition : présence d’un stabilisateur (Vi, Vander)</li>
+          <li>Limite : non viable dans un environnement hostile</li>
+        </ul>
+
+        <h3>Attracteur Jinx</h3>
+        <ul>
+          <li>Activation : menace, perte, chaos</li>
+          <li>Mode : survie, agressivité, créativité explosive</li>
+          <li>Condition : absence de stabilisateur</li>
+          <li>Limite : rigidité, escalade</li>
+        </ul>
+
+        <h3>Attracteur Hybride</h3>
+        <ul>
+          <li>Activation : surcharge, trauma</li>
+          <li>Mode : actions chaotiques mais orientées</li>
+          <li>Condition : double activation</li>
+          <li>Limite : instabilité maximale</li>
+        </ul>
+      </section>
       <img
         src="/Jinx.png"
         alt="Powder et Jinx — tension interne"
@@ -326,6 +359,29 @@ export default function JinxSystemPage() {
           </li>
         </ul>
       </section>
+      <section>
+        <h2>Continuité interne avant la rupture</h2>
+
+        <p>
+          Avant la fragmentation, Powder fonctionnait dans une continuité
+          fragile mais réelle. La stabilité reposait entièrement sur des
+          stabilisateurs externes.
+        </p>
+
+        <ul>
+          <li>Vi = repère principal</li>
+          <li>Vander = cadre protecteur</li>
+          <li>Claggor = stabilité émotionnelle</li>
+          <li>Ekko = miroir positif</li>
+          <li>Mylo = fragilisation mais intégration</li>
+        </ul>
+
+        <p>
+          Powder n’avait pas d’autonomie interne : elle empruntait la stabilité
+          des autres. Quand ces stabilisateurs disparaissent, la continuité
+          interne s’effondre mécaniquement.
+        </p>
+      </section>
       {/* ⭐ SECTION DÉPLACÉE EN PREMIER */}
       <section>
         <h2>Ce qui a construit Jinx</h2>
@@ -422,7 +478,40 @@ export default function JinxSystemPage() {
           </li>
         </ul>
       </section>
+      <section>
+        <h2>Fonctionnement post‑rupture</h2>
 
+        <p>
+          Après la scission Powder → Jinx, le système interne ne peut plus
+          revenir à son état d’origine. Powder n’a plus les conditions
+          nécessaires pour redevenir dominante, et Jinx ne peut pas redevenir
+          Powder.
+        </p>
+
+        <h3>Pourquoi Powder ne peut plus redevenir dominante</h3>
+        <ul>
+          <li>Absence de stabilisateurs</li>
+          <li>Environnement hostile</li>
+          <li>Surcharge immédiate</li>
+          <li>Activation automatique de Jinx</li>
+        </ul>
+
+        <h3>Pourquoi Jinx ne peut pas redevenir Powder</h3>
+        <ul>
+          <li>Mode de survie devenu structurel</li>
+          <li>Renforcement constant par Silco</li>
+          <li>Lecture de menace permanente</li>
+          <li>Powder = état non viable</li>
+        </ul>
+
+        <h3>Fonctionnement global</h3>
+        <ul>
+          <li>Jinx = attracteur dominant</li>
+          <li>Powder = attracteur résiduel</li>
+          <li>Hybride = état chaotique lors des surcharges</li>
+          <li>Le système cherche la survie, pas la cohérence</li>
+        </ul>
+      </section>
       <section>
         <h2>Traitement interne</h2>
         <p>
