@@ -48,3 +48,6 @@ main {
   color: #d18f5c;
   border-color: #d18f5c;
 }
+.welcome li {
+  list-style: none;
+}
