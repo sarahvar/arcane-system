@@ -7,19 +7,24 @@ export default function JinxSystemPage() {
         <h1>Jinx — Analyse Fonctionnelle</h1>
         <p>Un système construit autour de deux pôles identitaires opposés</p>
       </header>
-
       <section>
         <h2>Système interne</h2>
+
         <p>
-          Jinx n’est pas “une personne instable”, mais un système qui oscille
-          entre deux états internes : Powder et Jinx.
+          Jinx n’est pas “deux personnes”, mais une seule identité qui réagit de
+          deux façons différentes : Powder et Jinx. L’une n’est pas meilleure
+          que l’autre, elles sont deux réponses possibles à ce qu’elle vit.
+          Certains aspects de Jinx étaient déjà présents en Powder :
+          impulsivité, créativité chaotique, intensité émotionnelle. Jinx n’est
+          pas née après coup : elle est la conséquence de ce que Powder a vécu
+          et l’amplification de traits qui existaient déjà.
         </p>
 
         <p>
-          Powder et Jinx ne peuvent pas fonctionner ensemble de manière stable.
-          Mais dans certaines situations extrêmes, les deux s’activent en même
-          temps, ce qui crée une surcharge et un état chaotique. L’instabilité
-          n’est pas un bug : c’est son mode de fonctionnement.
+          Powder et Jinx ne peuvent pas fonctionner ensemble de manière stable,
+          mais elles ne s’opposent pas : elles viennent du même endroit. Quand
+          les deux s’activent en même temps, ce n’est pas un monstre qui
+          apparaît, mais un état chaotique issu de son histoire.
         </p>
       </section>
       <img
