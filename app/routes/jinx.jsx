@@ -139,9 +139,10 @@ export default function JinxSystemPage() {
           À cette époque, Marcus fournit à Silco une fausse version : il affirme
           que Vi est morte, produisant une version qui efface Vi du système.
           Lorsque Silco découvre, bien plus tard, que Vi est vivante et
-          réintroduite dans le système, il comprend que son architecture est
-          menacée : Vi est le seul stabilisateur primaire capable de défaire la
-          reconstruction Powder → Jinx.
+          réintroduite dans le système — via l’intervention de Caitlyn — il
+          comprend que son architecture est menacée : Vi est le seul
+          stabilisateur primaire capable de défaire la reconstruction Powder →
+          Jinx.
         </p>
       </section>
       <section>
