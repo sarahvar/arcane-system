@@ -119,12 +119,13 @@ export default function JinxSystemPage() {
         </p>
 
         <p>
-          Vi tente de revenir vers Powder, mais l’intervention d’un policier
-          corrompu de Piltover l’en empêche. Son arrestation et son
-          emprisonnement rendent impossible la restauration du système
-          d’origine. Pendant que Vi disparaît du système, Silco consolide sa
-          position de stabilisateur externe, permettant la reconstruction du
-          système sous une nouvelle forme : Jinx.
+          Vi tente de revenir vers Powder, mais l’intervention de Marcus,
+          policier de Piltover déjà compromis et en contact avec Silco, l’en
+          empêche. Son arrestation et son emprisonnement rendent impossible la
+          restauration du système d’origine. Pendant que Vi disparaît du
+          système, Silco consolide sa position de stabilisateur externe,
+          permettant la reconstruction du système sous une nouvelle forme :
+          Jinx.
         </p>
 
         <p>
@@ -132,6 +133,15 @@ export default function JinxSystemPage() {
           Powder perd tous ses stabilisateurs externes, déplace ses patterns
           vers Silco et se reconfigure en Jinx. Ce processus est mécanique, non
           psychologique.
+        </p>
+
+        <p>
+          À cette époque, Marcus fournit à Silco une fausse version : il affirme
+          que Vi est morte, produisant une version qui efface Vi du système.
+          Lorsque Silco découvre, bien plus tard, que Vi est vivante et
+          réintroduite dans le système, il comprend que son architecture est
+          menacée : Vi est le seul stabilisateur primaire capable de défaire la
+          reconstruction Powder → Jinx.
         </p>
       </section>
       <section>
