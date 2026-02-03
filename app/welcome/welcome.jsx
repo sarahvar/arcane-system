@@ -3,7 +3,7 @@ import "./welcome.css";
 export function Welcome() {
   return (
     <main>
-      <section className="welcome open">
+      <section className="welcome">
         <h1>Arcane System</h1>
         <p className="subtitle">Point d’entrée vers les systèmes internes.</p>
 
