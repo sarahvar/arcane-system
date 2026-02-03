@@ -91,6 +91,50 @@ export default function JinxSystemPage() {
         </p>
       </section>
       <section>
+        <h2>Rupture du système Powder : explosion, perte et reconfiguration</h2>
+
+        <p>
+          L’explosion constitue le point de bascule du système Powder. Elle
+          détruit simultanément tous les stabilisateurs externes : Vander,
+          Claggor, Mylo et la cohésion du groupe. Cette rupture totale effondre
+          la structure qui permettait à Powder de fonctionner sans continuité
+          interne autonome.
+        </p>
+
+        <p>
+          La réaction de Vi, en surcharge, agit comme une seconde rupture. En
+          rejetant Powder, elle cesse d’être le stabilisateur primaire. Powder
+          perd alors son dernier point d’ancrage. Cette perte n’est pas
+          émotionnelle mais structurelle : le système interne de Powder se
+          retrouve sans support et ne peut absorber la rupture.
+        </p>
+
+        <p>
+          Silco arrive d’abord pour éliminer Powder. Mais il observe un système
+          vulnérable, privé de stabilisateurs, en reconstruction forcée. Il
+          occupe alors la place laissée vide : il devient le stabilisateur de
+          substitution. Powder déplace ses patterns de Vi vers Silco : recherche
+          de validation, besoin de cadre, quête de continuité. Ce déplacement
+          n’est pas un choix, mais une réorganisation mécanique du système.
+        </p>
+
+        <p>
+          Vi tente de revenir vers Powder, mais l’intervention d’un policier
+          corrompu de Piltover l’en empêche. Son arrestation et son
+          emprisonnement rendent impossible la restauration du système
+          d’origine. Pendant que Vi disparaît du système, Silco consolide sa
+          position de stabilisateur externe, permettant la reconstruction du
+          système sous une nouvelle forme : Jinx.
+        </p>
+
+        <p>
+          La scène de l’explosion marque donc la transition structurelle :
+          Powder perd tous ses stabilisateurs externes, déplace ses patterns
+          vers Silco et se reconfigure en Jinx. Ce processus est mécanique, non
+          psychologique.
+        </p>
+      </section>
+      <section>
         <h2>Système interne</h2>
 
         <p>
