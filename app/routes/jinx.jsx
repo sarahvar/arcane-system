@@ -19,7 +19,37 @@ export default function JinxSystemPage() {
         <h1>Powder et Jinx — Comprendre les deux modes internes</h1>
         <p>Un système construit autour de deux pôles identitaires opposés</p>
       </header>
+      <nav className="char-navbar">
+     <div className="nav-logo">Personnages</div>
 
+        <button className="nav-toggle" aria-label="toggle navigation">
+          ☰
+        </button>
+
+        <ul className="nav-links">
+          <li>
+            <a href="/vi">Vi</a>
+          </li>
+          <li>
+            <a href="/silco">Silco</a>
+          </li>
+          <li>
+            <a href="/vander">Vander</a>
+          </li>
+          <li>
+            <a href="/ekko">Ekko</a>
+          </li>
+          <li>
+            <a href="/caitlyn">Caitlyn</a>
+          </li>
+          <li>
+            <a href="/sevika">Sevika</a>
+          </li>
+          <li>
+            <a href="/isha">Isha</a>
+          </li>
+        </ul>
+      </nav>
       <section>
         <h2>Système interne</h2>
 
