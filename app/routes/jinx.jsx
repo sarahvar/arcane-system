@@ -20,7 +20,7 @@ export default function JinxSystemPage() {
         <p>Un système construit autour de deux pôles identitaires opposés</p>
       </header>
       <nav className="char-navbar">
-     <div className="nav-logo">Personnages</div>
+        <div className="nav-logo">Personnages</div>
 
         <button className="nav-toggle" aria-label="toggle navigation">
           ☰
@@ -806,6 +806,97 @@ export default function JinxSystemPage() {
           continuité d’un mode antérieur, formé avant la fragmentation du
           territoire. Leur relation exprime deux trajectoires issues du même
           environnement mais devenues incompatibles lorsque Zaun s’est effondré.
+        </p>
+      </section>
+      <section>
+        <h2>La saison 2 et la rupture de la logique Powder/Jinx</h2>
+
+        <p>
+          La saison 1 d’Arcane est construite comme une tragédie psychologique
+          et politique : Powder et Jinx y forment une seule trajectoire,
+          cohérente, fermée, profondément marquée par le trauma et le conflit
+          Zaun/Piltover. Le succès massif de cette saison a entraîné un
+          changement de direction pour la saison 2, qui devient moins politique
+          et plus émotionnelle, avec une volonté claire d’élargir l’audience.
+        </p>
+
+        <p>
+          Ce changement extérieur a un impact direct sur l’écriture de Jinx. La
+          saison 2 introduit une séparation artificielle entre Powder et Jinx :
+          Powder est présentée comme le “bon côté”, Jinx comme le “mauvais
+          côté”. Cette dichotomie n’existait pas en saison 1, où Jinx n’était
+          pas une corruption de Powder, mais la continuité tragique de Powder
+          elle-même.
+        </p>
+
+        <p>
+          La saison 1 montre pourtant que Powder existe encore en Jinx : elle
+          réapparaît dans les moments de panique, de culpabilité ou de
+          confrontation avec Vi. Mais cette Powder n’est pas une version “pure”
+          ou “innocente” du personnage : elle est marquée par le trauma, la
+          dissociation et la fragilité qui ont conduit à la naissance de Jinx.
+          Elle n’existe plus comme identité stable ou récupérable, seulement
+          comme un fragment instable. La saison 2 construit donc une Powder
+          idéalisée qui n’a jamais existé dans la logique de la saison 1.
+        </p>
+
+        <p>
+          Silco n’accepte que Jinx tandis que Vi cherche Powder : cette tension
+          montre que Powder est toujours présente en Jinx, mais sous une forme
+          instable et fragmentée. La saison 1 construit précisément cette
+          coexistence : Powder n’a pas disparu, mais elle n’existe plus comme
+          identité autonome ou retrouvable.
+        </p>
+
+        <p>
+          Le personnage d’Isha illustre cette réécriture. Isha n’est pas une
+          évolution organique de la psychologie de Jinx, mais un outil narratif
+          : elle sert à montrer une version plus “stable” et “bienveillante” de
+          Powder, à prouver que “du bon” subsiste en Jinx, et à rendre le
+          personnage plus acceptable pour Vi et pour le public. Pourtant, Powder
+          n’a jamais été stable dans la saison 1 : elle est construite comme une
+          enfant déjà fragile, anxieuse et instable, dont la trajectoire mène
+          naturellement à Jinx. Structurellement, Isha ne peut donc pas avoir un
+          tel impact sur Powder, car elle repose sur une version idéalisée de
+          Powder qui n’a jamais existé. Powder est définie par un trauma
+          fondateur qui structure toute sa trajectoire, et non par un état
+          antérieur sain auquel Jinx pourrait revenir. Isha fonctionne aussi
+          comme un outil de rédemption : elle permet de présenter Jinx sous un
+          angle moralement “sauvable”, ce qui transforme Powder en innocence
+          retrouvable et contredit la logique tragique de la saison 1.
+        </p>
+
+        <p>
+          La mort d’Isha confirme ce déplacement. Dans la logique de la saison
+          1, une perte traumatique aurait déclenché chez Jinx une nouvelle crise
+          de dissociation, de chaos, d’explosion. Dans la saison 2, la mort
+          d’Isha conduit plutôt à une tristesse “classique” et à un désir de
+          mourir. Ce n’est plus la dynamique interne de Jinx telle qu’elle avait
+          été construite, mais une trajectoire de rédemption tragique imposée de
+          l’extérieur.
+        </p>
+
+        <p>
+          L’épisode 7 renforce cette séparation artificielle : Ekko y voit une
+          version alternative de Powder, distincte de Jinx. Cette mise en scène
+          propose une lecture morale (Powder pure, Jinx corrompue) qui n’était
+          pas présente dans la première saison. Ekko finit par accepter Powder
+          dans la saison 2, mais uniquement après avoir vu cette version
+          alternative idéalisée, ce qui confirme que la série construit une
+          Powder plus douce et plus stable que celle, traumatisée et instable,
+          de la saison 1. On ne suit plus la continuité psychologique d’un même
+          sujet brisé, mais une opposition simplifiée entre deux figures
+          symboliques.
+        </p>
+
+        <p>
+          Ainsi, la saison 2 ne suit pas la logique structurelle de Powder/Jinx
+          établie en saison 1. Les choix de production extérieurs (élargissement
+          de l’audience, adoucissement du personnage) modifient la cohérence
+          interne du personnage : Powder et Jinx sont séparées artificiellement,
+          et Isha fonctionne comme un outil de réécriture morale et de
+          rédemption plutôt que comme un prolongement naturel de la psychologie
+          de Jinx.
         </p>
       </section>
       <section>

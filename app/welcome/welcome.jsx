@@ -3,7 +3,7 @@ import "./welcome.css";
 export function Welcome() {
   return (
     <main>
-      <section className="welcome">
+      <section className="welcome open">
         <h1>Arcane System</h1>
         <p className="subtitle">Point d’entrée vers les systèmes internes.</p>
 
@@ -11,7 +11,7 @@ export function Welcome() {
           <ul>
             <li>
               <a href="/jinx" className="welcome-link">
-              Powder et Jinx
+                Powder et Jinx
               </a>
             </li>
           </ul>
