@@ -255,16 +255,26 @@ export default function JinxSystemPage() {
             <ul>
               <li>Proximité avec Vi</li>
               <li>Menace de remplacement</li>
-              <li>Caitlyn = déclencheur direct de Jinx</li>
+              <li>
+                Caitlyn = déclencheur indirect (Vi modifie son comportement →
+                activation Powder/Jinx)
+              </li>
             </ul>
           </div>
 
           <div className="detail">
             <h4>Effets directs</h4>
             <ul>
-              <li>Déclenche le mode “substitution”</li>
-              <li>Active Powder + Jinx</li>
-              <li>Déclenche hyper-vigilance</li>
+              <li>Déclenche le mode « substitution »</li>
+              <li>
+                Active Powder sur le plan émotionnel (besoin de Vi, jalousie,
+                peur d’être abandonnée)
+              </li>
+              <li>
+                Active Jinx sur le plan comportemental (violence, impulsivité,
+                réponses extrêmes)
+              </li>
+              <li>Déclenche l’hyper-vigilance</li>
             </ul>
           </div>
 
