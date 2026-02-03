@@ -51,6 +51,46 @@ export default function JinxSystemPage() {
         </ul>
       </nav>
       <section>
+        <h2>Niveau 0 : Éléments fondateurs du système Powder/Jinx</h2>
+
+        <p>
+          Le premier élément fondateur du système Powder/Jinx est l’événement du
+          pont : la mort des parents sous la violence Piltover → Zaun. Cette
+          rupture initiale détruit la structure primaire de sécurité et installe
+          un fonctionnement interne vulnérable, dépendant d’un stabilisateur
+          externe.
+        </p>
+
+        <p>
+          Le second élément fondateur est Vi, qui devient le stabilisateur
+          primaire. Vi agit comme filtre entre Powder et le monde : première
+          autorité, première continuité, première barrière contre
+          l’environnement. Powder ne développe pas de continuité interne
+          autonome : elle s’appuie sur Vi comme structure externe.
+        </p>
+
+        <p>
+          Le troisième élément fondateur est Vander, stabilisateur secondaire.
+          Il fournit un cadre matériel, moral et social qui renforce la
+          dépendance de Powder à des structures externes plutôt qu’à un système
+          interne consolidé.
+        </p>
+
+        <p>
+          Le quatrième élément fondateur est le groupe (Vi, Mylo, Claggor,
+          Vander). Powder existe dans une micro-structure où sa valeur dépend de
+          la cohésion collective, pas d’un système interne stable.
+        </p>
+
+        <p>
+          Le cinquième élément fondateur est la rupture : l’explosion. La mort
+          de Mylo, Claggor, la perte de Vander et la disparition de Vi
+          détruisent simultanément tous les stabilisateurs externes. Powder
+          n’ayant pas de structure interne autonome, le système se reconstruit
+          sous une nouvelle forme : Jinx.
+        </p>
+      </section>
+      <section>
         <h2>Système interne</h2>
 
         <p>
