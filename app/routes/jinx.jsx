@@ -653,7 +653,34 @@ export default function JinxSystemPage() {
           fracturé.
         </p>
       </section>
+      <section>
+        <h2>Identité interne modulée / Identité politique stabilisée</h2>
 
+        <p>
+          À l’intérieur du <strong>système Jinx lui-même</strong>, l’identité
+          est modulée. Le fonctionnement interne repose sur des attracteurs en
+          tension (Powder, Jinx, Hybride), une fragmentation issue du trauma et
+          une oscillation fonctionnelle selon la pression externe. Cette
+          variabilité appartient au mécanisme interne du personnage.
+        </p>
+
+        <p>
+          À l’extérieur, dans le <strong>système géopolitique</strong> (Silco,
+          Zaun, Piltover), Jinx est perçue et utilisée comme une identité
+          stabilisée. Elle devient un symbole cohérent : arme politique pour
+          Silco, incarnation de Zaun radicalisé, menace identifiable pour
+          Piltover. Cette stabilité n’est pas interne, mais{" "}
+          <strong>produite par les structures de pouvoir</strong>.
+        </p>
+
+        <p>
+          Cette dissociation est centrale : Jinx est dynamique en elle-même,
+          mais stabilisée dans la manière dont elle est intégrée, interprétée et
+          exploitée par les systèmes politiques. Ce décalage rend impossible le
+          retour à Powder et ancre Jinx dans une logique tragique où l’identité
+          interne et l’identité politique ne peuvent plus converger.
+        </p>
+      </section>
       <section>
         <h2>Piltover → Zaun : structure de domination</h2>
 
