@@ -59,7 +59,6 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 12px;
-    width: 100%;
   }
 }
 
@@ -70,8 +69,6 @@
   }
 
   .nav-links a {
-    display: block;
-    width: 100%;
     padding: 6px 0;
   }
 }
