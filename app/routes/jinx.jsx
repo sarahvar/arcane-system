@@ -121,11 +121,13 @@ export default function JinxSystemPage() {
         <p>
           Vi tente de revenir vers Powder, mais l’intervention de Marcus,
           policier de Piltover déjà compromis et en contact avec Silco, l’en
-          empêche. Son arrestation et son emprisonnement rendent impossible la
-          restauration du système d’origine. Pendant que Vi disparaît du
-          système, Silco consolide sa position de stabilisateur externe,
-          permettant la reconstruction du système sous une nouvelle forme :
-          Jinx.
+          empêche. Il neutralise Vi en l’emprisonnant — non
+          pour la protéger, mais pour empêcher qu’elle interfère avec l’accord
+          qu’il a passé avec Silco. Son arrestation et son emprisonnement
+          rendent impossible la restauration du système d’origine de Powder.
+          Pendant que Vi disparaît du système, Silco consolide sa position de
+          stabilisateur externe, permettant la reconstruction du système sous
+          une nouvelle forme : Jinx.
         </p>
 
         <p>
