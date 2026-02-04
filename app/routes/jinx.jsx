@@ -124,7 +124,7 @@ export default function JinxSystemPage() {
           empêche. Il neutralise Vi en l’emprisonnant — non
           pour la protéger, mais pour empêcher qu’elle interfère avec l’accord
           qu’il a passé avec Silco. Son arrestation et son emprisonnement
-          rendent impossible la restauration du système d’origine de Powder.
+          rendent impossible la restauration du système d’origine : Powder.
           Pendant que Vi disparaît du système, Silco consolide sa position de
           stabilisateur externe, permettant la reconstruction du système sous
           une nouvelle forme : Jinx.
