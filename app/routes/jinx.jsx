@@ -987,7 +987,7 @@ export default function JinxSystemPage() {
         <h2>La saison 2 et la rupture de la logique Powder/Jinx</h2>
 
         <p>
-          La saison 1 d’Arcane est construite comme une système psychologique et
+          La saison 1 d’Arcane est construite comme un système psychologique et
           politique : Powder et Jinx y apparaissent comme les états successifs
           d’un même système, configuré par ses fragilités internes et par le
           contexte Zaun/Piltover. Le succès massif de cette saison a entraîné un
