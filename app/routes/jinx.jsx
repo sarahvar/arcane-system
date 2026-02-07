@@ -121,13 +121,13 @@ export default function JinxSystemPage() {
         <p>
           Vi tente de revenir vers Powder, mais l’intervention de Marcus,
           policier de Piltover déjà compromis et en contact avec Silco, l’en
-          empêche. Il neutralise Vi en l’emprisonnant — non
-          pour la protéger, mais pour empêcher qu’elle interfère avec l’accord
-          qu’il a passé avec Silco. Son arrestation et son emprisonnement
-          rendent impossible la restauration du système d’origine : Powder.
-          Pendant que Vi disparaît du système, Silco consolide sa position de
-          stabilisateur externe, permettant la reconstruction du système sous
-          une nouvelle forme : Jinx.
+          empêche. Il neutralise Vi en l’emprisonnant — non pour la protéger,
+          mais pour empêcher qu’elle interfère avec l’accord qu’il a passé avec
+          Silco. Son arrestation et son emprisonnement rendent impossible la
+          restauration du système d’origine : Powder. Pendant que Vi disparaît
+          du système, Silco consolide sa position de stabilisateur externe,
+          permettant la reconstruction du système sous une nouvelle forme :
+          Jinx.
         </p>
 
         <p>
@@ -748,6 +748,34 @@ export default function JinxSystemPage() {
           absence de dialogue, radicalisation progressive et disparition des
           médiateurs. Jinx incarne la rupture définitive d’un ordre déjà
           fracturé.
+        </p>
+      </section>
+      <section>
+        <h2>
+          Le cadrage moral d’Arcane : rébellion "dangereuse", soumission "sage"
+        </h2>
+
+        <p>
+          Arcane encode un schéma moral humain, mais elle le fait de manière
+          construite : la série utilise délibérément la radicalité de Silco
+          comme dispositif narratif. Plus Silco est extrême, plus la coopération
+          contrainte de Vander et Vi apparaît comme la voie “raisonnable”. Le
+          récit fabrique ainsi un contraste moral où le compromis imposé est
+          présenté comme la solution légitime, tandis que la rébellion est
+          cadrée comme une menace. Ce cadrage n’est pas structurel : il oriente
+          la perception du spectateur, alors que la dynamique réelle du conflit
+          est géopolitique et non morale.
+        </p>
+
+        <p>
+          Dans cette logique, Jinx n’est pas une figure "dangereuse" mais la
+          conséquence cohérente d’un système opprimé qui a perdu ses
+          stabilisateurs internes.
+        </p>
+        <p>
+          Le cadrage moral d’Arcane ne se contente pas d’orienter la lecture :
+          il remplace la dynamique géopolitique qui produit Jinx et transforme
+          son état identitaire en manœuvre politique pour les pouvoirs en place.
         </p>
       </section>
       <section>
