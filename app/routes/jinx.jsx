@@ -20,13 +20,16 @@ export default function JinxSystemPage() {
         <p>Un système construit autour de deux pôles identitaires opposés</p>
       </header>
       <nav className="char-navbar">
-        <div className="nav-logo">Personnages</div>
+        <div className="nav-logo">Navigation</div>
 
         <button className="nav-toggle" aria-label="toggle navigation">
           ☰
         </button>
 
         <ul className="nav-links">
+          <li>
+            <a href="/">Accueil</a>
+          </li>
           <li>
             <a href="/vi">Vi</a>
           </li>
@@ -760,10 +763,10 @@ export default function JinxSystemPage() {
           construite : la série utilise délibérément la radicalité de Silco
           comme dispositif narratif. Plus Silco est montré comme extrême, plus
           la coopération contrainte de Vander apparaît comme la voie
-          “raisonnable”. <br/> Le récit construit ainsi un contraste moral où le
-          compromis imposé est présenté comme la solution légitime, tandis que
-          la rébellion est cadrée comme une menace. <br/> Ce cadrage n’est pas
-          structurel : il oriente la perception du spectateur, alors que la
+          “raisonnable”. <br /> Le récit construit ainsi un contraste moral où
+          le compromis imposé est présenté comme la solution légitime, tandis
+          que la rébellion est cadrée comme une menace. <br /> Ce cadrage n’est
+          pas structurel : il oriente la perception du spectateur, alors que la
           dynamique réelle du conflit est géopolitique et non morale.
         </p>
 
