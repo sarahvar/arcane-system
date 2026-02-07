@@ -758,24 +758,31 @@ export default function JinxSystemPage() {
         <p>
           Arcane encode un schéma moral humain, mais elle le fait de manière
           construite : la série utilise délibérément la radicalité de Silco
-          comme dispositif narratif. Plus Silco est extrême, plus la coopération
-          contrainte de Vander et Vi apparaît comme la voie “raisonnable”. Le
-          récit fabrique ainsi un contraste moral où le compromis imposé est
-          présenté comme la solution légitime, tandis que la rébellion est
-          cadrée comme une menace. Ce cadrage n’est pas structurel : il oriente
-          la perception du spectateur, alors que la dynamique réelle du conflit
-          est géopolitique et non morale.
+          comme dispositif narratif. Plus Silco est montré comme extrême, plus
+          la coopération contrainte de Vander apparaît comme la voie
+          “raisonnable”. Le récit fabrique ainsi un contraste moral où le
+          compromis imposé est présenté comme la solution légitime, tandis que
+          la rébellion est cadrée comme une menace. Ce cadrage n’est pas
+          structurel : il oriente la perception du spectateur, alors que la
+          dynamique réelle du conflit est géopolitique et non morale.
         </p>
 
         <p>
-          Dans cette logique, Jinx n’est pas une figure "dangereuse" mais la
+          Cette mise en scène repose sur une dualité construite entre Vander et
+          Vi d’un côté, et Silco et Jinx de l’autre. Dans ce dispositif, Jinx
+          n’est pas radicale par nature : elle est intégrée à la radicalité de
+          Silco par l’instrumentalisation qu’il exerce sur elle. Cette
+          instrumentalisation renforce le cadrage moral en donnant à la
+          rébellion une figure “dangereuse”, alors qu’elle n’est que la
           conséquence cohérente d’un système opprimé qui a perdu ses
           stabilisateurs internes.
         </p>
+
         <p>
-          Le cadrage moral d’Arcane ne se contente pas d’orienter la lecture :
-          il remplace la dynamique géopolitique qui produit Jinx et transforme
-          son état identitaire en manœuvre politique pour les pouvoirs en place.
+          Le cadrage moral d’Arcane ne se contente donc pas d’orienter la
+          lecture : il remplace la dynamique géopolitique qui produit Jinx par
+          une lecture morale du conflit et transforme son état identitaire en
+          manœuvre politique pour les pouvoirs en place.
         </p>
       </section>
       <section>
