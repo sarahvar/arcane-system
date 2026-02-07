@@ -2,27 +2,66 @@ import "./vi.css";
 import { useEffect } from "react";
 
 export default function ViSystemPage() {
-      useEffect(() => {
-        document.querySelectorAll("section > h2").forEach((title) => {
-          const section = title.parentElement;
-    
-          title.addEventListener("click", () => {
-            section.classList.toggle("open");
-          });
-        });
-      }, []);
+  useEffect(() => {
+    document.querySelectorAll("section > h2").forEach((title) => {
+      const section = title.parentElement;
+
+      title.addEventListener("click", () => {
+        section.classList.toggle("open");
+      });
+    });
+  }, []);
   return (
     <section className="vi-page">
+      <header>
+        <h1>Vi — Système stabilisateur issu de Zaun</h1>
+        <p>
+          Un mode interne structuré par la cohésion, la régulation et la
+          médiation
+        </p>
+      </header>
 
-      <h1>Vi : Système stabilisateur issu de Zaun</h1>
+      <nav className="char-navbar">
+        <div className="nav-logo">Navigation</div>
+
+        <button className="nav-toggle" aria-label="toggle navigation">
+          ☰
+        </button>
+
+        <ul className="nav-links">
+          <li>
+            <a href="/">Accueil</a>
+          </li>
+
+          {/* Personnages directement liés à Vi */}
+          <li>
+            <a href="/jinx">Powder / Jinx</a>
+          </li>
+          <li>
+            <a href="/vander">Vander</a>
+          </li>
+          <li>
+            <a href="/caitlyn">Caitlyn</a>
+          </li>
+             <li>
+            <a href="/ekko">Ekko</a>
+          </li>
+          <li>
+            <a href="/silco">Silco</a>
+          </li>
+          <li>
+            <a href="/jayce">Jayce</a>
+          </li>
+        </ul>
+      </nav>
 
       <section>
         <h2>1. Vi comme produit d’un système</h2>
         <p>
           Vi n’est pas une figure isolée. Elle fonctionne comme un mode de
-          stabilisation interne propre à Zaun vulnérable : un état structuré
-          par la présence de médiateurs locaux et par la nécessité de maintenir
-          une cohésion minimale dans un environnement instable.
+          stabilisation interne propre à Zaun vulnérable : un état structuré par
+          la présence de médiateurs locaux et par la nécessité de maintenir une
+          cohésion minimale dans un environnement instable.
         </p>
       </section>
 
@@ -30,9 +69,9 @@ export default function ViSystemPage() {
         <h2>2. Vi dans Zaun vulnérable</h2>
         <p>
           Avant la rupture, Vi opère comme vecteur de cohésion locale. Elle
-          régule la violence, protège le groupe et sert d’interface entre
-          Vander et les enfants. Sa fonction dépend directement de la structure
-          fragile de Zaun et de la présence d’un stabilisateur primaire.
+          régule la violence, protège le groupe et sert d’interface entre Vander
+          et les enfants. Sa fonction dépend directement de la structure fragile
+          de Zaun et de la présence d’un stabilisateur primaire.
         </p>
       </section>
 
@@ -74,7 +113,6 @@ export default function ViSystemPage() {
           détaché de son rôle structurel initial dans Zaun vulnérable.
         </p>
       </section>
-
     </section>
   );
 }

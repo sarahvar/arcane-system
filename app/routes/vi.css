@@ -41,10 +41,10 @@
   font-weight: 500;
   transition: color 0.2s ease;
 }
-
 .vi-page .nav-links a:hover {
-  color: #ff6b6b;
+  color: #00eaff;
 }
+
 
 .vi-page .nav-toggle {
   display: none;
