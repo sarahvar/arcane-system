@@ -760,7 +760,7 @@ export default function JinxSystemPage() {
           construite : la série utilise délibérément la radicalité de Silco
           comme dispositif narratif. Plus Silco est montré comme extrême, plus
           la coopération contrainte de Vander apparaît comme la voie
-          “raisonnable”. Le récit fabrique ainsi un contraste moral où le
+          “raisonnable”. <br/> Le récit fabrique ainsi un contraste moral où le
           compromis imposé est présenté comme la solution légitime, tandis que
           la rébellion est cadrée comme une menace. Ce cadrage n’est pas
           structurel : il oriente la perception du spectateur, alors que la
