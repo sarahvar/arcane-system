@@ -52,3 +52,60 @@ main {
 .welcome li {
   list-style: none;
 }
+/* Conteneur de la liste */
+.welcome nav ul {
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1.5rem;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+/* Chaque élément */
+.welcome nav li {
+  list-style: none;
+}
+
+/* Lien stylé */
+.welcome-link {
+  font-size: 1.25rem;
+  color: #b87333;
+  text-decoration: none;
+  padding: 0.4rem 0.2rem;
+  border-bottom: 2px solid #8a4f2e;
+  transition: color 0.3s ease, border-color 0.3s ease;
+}
+
+.welcome-link:hover {
+  color: #d18f5c;
+  border-color: #d18f5c;
+  
+}
+/* Responsive mobile */
+@media (max-width: 480px) {
+  .welcome nav ul {
+    grid-template-columns: 1fr;
+    gap: 1.2rem;
+  }
+
+  .welcome-link {
+    font-size: 1.15rem;
+  }
+}
+
+/* Responsive tablette */
+@media (min-width: 481px) and (max-width: 900px) {
+  .welcome nav ul {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.4rem;
+  }
+}
+
+/* Desktop large */
+@media (min-width: 901px) {
+  .welcome nav ul {
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  }
+}

@@ -14,6 +14,11 @@ export function Welcome() {
                 Powder et Jinx
               </a>
             </li>
+              <li>
+              <a href="/vi" className="welcome-link">
+               VI
+              </a>
+            </li>
           </ul>
         </nav>
       </section>
