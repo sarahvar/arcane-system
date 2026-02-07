@@ -182,7 +182,7 @@ export default function JinxSystemPage() {
             <h3>Patterns Powder</h3>
             <ul>
               <li>Dépendance structurelle</li>
-              <li>Créativité instable</li>
+              <li> créativité non stabilisée</li>
               <li>Lecture binaire du lien</li>
               <li>Fragilité du mode</li>
             </ul>
@@ -231,10 +231,10 @@ export default function JinxSystemPage() {
 
         <h3>Attracteur Hybride</h3>
         <ul>
-          <li>Activation : surcharge, trauma</li>
+          <li>Activation : surcharge, rupture structurelle</li>
           <li>Mode : actions chaotiques mais orientées</li>
           <li>Condition : double activation</li>
-          <li>Limite : instabilité maximale</li>
+          <li>Limite : instabilité structurelle au point de rupture</li>
         </ul>
       </section>
       <img
@@ -296,7 +296,7 @@ export default function JinxSystemPage() {
           <div className="detail">
             <h4>Conséquences</h4>
             <ul>
-              <li>Instabilité interne</li>
+              <li>Déséquilibre interne Powder/Jinx</li>
               <li>Surcharge émotionnelle</li>
               <li>Prise de contrôle de Jinx</li>
             </ul>
@@ -398,7 +398,7 @@ export default function JinxSystemPage() {
           <div className="detail">
             <h4>Conséquences</h4>
             <ul>
-              <li>Instabilité maximale</li>
+              <li>Bascule interne du système</li>
               <li>Risque de bascule violente</li>
               <li>Prise de contrôle de Jinx</li>
             </ul>
@@ -414,42 +414,36 @@ export default function JinxSystemPage() {
             se construit autour de la protection de Vi, créant une dépendance
             structurelle.
           </li>
-
           <li>
             <strong>Vander</strong> → cadre protecteur : il fournit la stabilité
             permettant à Powder d’exister sans danger. Sa mort provoque un
             effondrement du système.
           </li>
-
           <li>
             <strong>Mylo</strong> → invalidation : ses critiques renforcent le
             sentiment d’incompétence et fragilisent Powder.
           </li>
-
           <li>
             <strong>Claggor</strong> → stabilité émotionnelle : sa présence
             soutient Powder. Sa perte crée une rupture brutale dans la
             continuité interne.
           </li>
-
           <li>
             <strong>Ekko</strong> → miroir positif : il représente ce que Powder
             aurait pu devenir, créant un écart douloureux.
           </li>
-
           <li>
-            <strong>Zaun (enfant)</strong> → chaos : l’environnement instable
-            pousse Powder à chercher un repère externe (Vi, Vander).
+            <strong>Zaun (enfant)</strong> → milieu où les repères sont
+            relationnels, pas environnementaux.
           </li>
-
           <li>
             <strong>Piltover (enfant)</strong> → sentiment d’infériorité : monde
             perçu comme inaccessible, renforçant la fragilité identitaire.
           </li>
-
           <li>
-            <strong>Trauma initial</strong> → fragmentation : l’explosion
-            détruit la continuité interne et ouvre la voie au mode Jinx.
+            <strong>Rupture structurelle initiale</strong> → fragmentation :
+            l’explosion détruit la continuité interne et ouvre la voie au mode
+            Jinx.
           </li>
         </ul>
       </section>
@@ -460,9 +454,8 @@ export default function JinxSystemPage() {
           <li>
             <strong>Vi</strong> → réactivation directe : le nom “Powder”, les
             gestes de protection et la proximité ramènent immédiatement le mode
-            vulnérable.
+            dépendant.
           </li>
-
           <li>
             <strong>Silco</strong> → suppression : il renforce Jinx et étouffe
             Powder, incompatible avec son modèle.
@@ -479,8 +472,8 @@ export default function JinxSystemPage() {
           </li>
 
           <li>
-            <strong>Trauma</strong> → surcharge : Powder et Jinx s’activent en
-            même temps, créant une oscillation interne.
+            <strong>Rupture structurelle</strong> → surcharge : Powder et Jinx
+            s’activent en même temps, créant une oscillation interne.
           </li>
 
           <li>
@@ -595,11 +588,10 @@ export default function JinxSystemPage() {
             <strong>Silco</strong> : stabilisateur. Il renforce{" "}
             <strong>Jinx</strong> et coupe <strong>Powder</strong>.
           </li>
-
           <li>
-            <strong>Trauma</strong> : déclencheur. Il active{" "}
-            <strong>Powder</strong> et <strong>Jinx</strong> simultanément,
-            créant une surcharge et une oscillation interne.
+            <strong>Failles internes</strong> : elles activent simultanément
+            <strong>Powder</strong> et <strong>Jinx</strong>, créant une
+            surcharge et une oscillation interne.
           </li>
 
           <li>
@@ -686,22 +678,22 @@ export default function JinxSystemPage() {
           <li>Décisions impulsives mais logiques dans le contexte</li>
         </ul>
       </section>
-
       <section>
         <h2>Jinx et Zaun</h2>
         <p>
-          Jinx n’est pas seulement un individu, elle est une forme de Zaun
-          internalisée. Zaun est un environnement chaotique, sans stabilité, où
-          la survie, le bricolage et l’adaptation extrême sont la norme. Powder
-          ne peut pas survivre dans ce cadre, Jinx oui. La transition Powder →
-          Jinx est une adaptation forcée à un système qui ne protège pas la
-          vulnérabilité.
+          Jinx n’est pas seulement un individu : elle est une forme de Zaun
+          internalisée. Zaun est un milieu où les repères sont relationnels
+          plutôt qu’environnementaux, et où la survie repose sur l’ingéniosité,
+          la réactivité et l’adaptation constante. Powder n’a pas les ressources
+          internes pour fonctionner dans ce type de contexte ; Jinx, si. La
+          transition Powder → Jinx est une adaptation à un environnement qui ne
+          soutient pas la vulnérabilité.
         </p>
         <p>
-          Jinx incarne la logique de Zaun : créativité explosive, violence comme
-          langage, absence de limites claires, méfiance et réactivité extrême.
-          Elle n’est pas “défaillante”, elle est cohérente avec un environnement
-          qui impose l’instabilité comme mode de fonctionnement.
+          Jinx incarne la logique de Zaun : créativité radicale, réponses
+          extrêmes, absence de limites explicites, méfiance et réactivité
+          immédiate. Elle n’est pas “défaillante” : elle est cohérente avec un
+          milieu où l’adaptation rapide prime sur la continuité interne.
         </p>
       </section>
 
@@ -723,37 +715,33 @@ export default function JinxSystemPage() {
         </p>
       </section>
       <section>
-        <h2>Jinx comme système géopolitique : Zaun incarné</h2>
+        <h2>Jinx comme système : Zaun internalisé</h2>
 
         <p>
-          Jinx n’est pas une figure isolée dans Arcane. Elle est la conséquence
-          directe d’un environnement géopolitique instable : Zaun. Le territoire
-          produit des individus façonnés par la pauvreté structurelle, l’absence
-          d’autorité centrale, la violence systémique et l’exploitation par
-          Piltover. Jinx n’est pas un symbole abstrait : elle est la
-          matérialisation logique d’un système en effondrement.
+          Jinx n’est pas une figure isolée. Elle est la forme internalisée de la
+          logique de Zaun : un milieu où les repères sont relationnels plutôt
+          qu’environnementaux, et où l’adaptation rapide prime sur la
+          continuité. Powder ne peut pas fonctionner dans ce type de contexte ;
+          Jinx, si. La transition Powder → Jinx correspond à l’émergence d’un
+          mode compatible avec un environnement qui ne soutient pas la
+          vulnérabilité.
         </p>
 
         <p>
-          La transition Powder → Jinx correspond à la transformation de Zaun
-          vulnérable en Zaun radicalisé. Powder représente la population
-          fragile, dépendante de figures locales comme Vander, vivant dans un
-          tissu social instable. Jinx incarne la version militarisée du
-          territoire : une réponse chaotique née de la perte des stabilisateurs
-          internes et de la montée des extrêmes. Silco agit comme un proto-État,
-          convertissant la douleur en ressource politique et la violence en
-          stratégie.
+          Jinx incarne les dynamiques de Zaun : créativité radicale, réponses
+          extrêmes, absence de limites explicites, méfiance et réactivité
+          immédiate. Elle n’est pas un dysfonctionnement : elle est cohérente
+          avec un milieu où la survie repose sur l’ingéniosité et la réactivité
+          plutôt que sur la stabilité interne.
         </p>
+
         <p>
-          Dans la saison 1, l’attaque finale de Jinx contre le Conseil n’est pas
-          un acte individuel mais un événement géopolitique. Elle marque le
-          point de non-retour entre Piltover et Zaun : décennies d’exploitation,
-          absence de dialogue, radicalisation progressive et disparition des
-          médiateurs. Jinx incarne la rupture définitive d’un ordre déjà
-          fracturé.
+          L’attaque finale contre le Conseil n’est pas un acte individuel mais
+          la manifestation d’une rupture structurelle : disparition des
+          médiateurs, montée des extrêmes, effondrement des stabilisateurs
+          internes. Jinx incarne le point de bascule d’un système déjà fracturé.
         </p>
       </section>
-
       <section>
         <h2>
           Le cadrage moral d’Arcane : rébellion "dangereuse", soumission "sage"
@@ -797,9 +785,9 @@ export default function JinxSystemPage() {
         <p>
           À l’intérieur du <strong>système Jinx lui-même</strong>, l’identité
           est modulée. Le fonctionnement interne repose sur des attracteurs en
-          tension (Powder, Jinx, Hybride), une fragmentation issue du trauma et
-          une oscillation fonctionnelle selon la pression externe. Cette
-          variabilité appartient au mécanisme interne du personnage.
+          tension (Powder, Jinx, Hybride), une fragmentation issue de failles
+          internes et une oscillation fonctionnelle selon la pression externe.
+          Cette variabilité appartient au mécanisme interne du personnage.
         </p>
 
         <p>
@@ -909,21 +897,25 @@ export default function JinxSystemPage() {
       </section>
 
       <section>
-        <h2>Silco : proto-État et catalyseur</h2>
+        <h2>
+          Silco : rôle politique (dans l’histoire) et fonction interne (dans le
+          modèle)
+        </h2>
 
         <p>
-          Silco fonctionne comme un acteur para-étatique : il structure une
-          idéologie, centralise la violence, organise une économie parallèle et
-          crée une identité collective pour Zaun. Il ne cherche pas à manipuler
-          Jinx mais à stabiliser un mode interne déjà présent, en le
-          transformant en force stratégique.
+          Dans le récit d’Arcane, Silco occupe un rôle politique : il fédère des
+          factions, négocie avec Piltover et porte un projet territorial pour
+          Zaun. Il instrumentalise Jinx — en effaçant Powder, en contrôlant
+          l’information, en orientant sa perception — non comme une finalité,
+          mais parce que ces actions s’intègrent dans une stratégie plus large
+          centrée sur Zaun.
         </p>
 
         <p>
-          Son pouvoir repose sur trois éléments : la maîtrise de la chimtech, la
-          capacité à fédérer des factions instables et la transformation de la
-          douleur en ressource politique. Jinx devient alors un vecteur central
-          de son projet : une arme, un symbole et un message.
+          Dans une lecture structurelle, cette instrumentalisation devient un
+          outil : Silco ajuste un mode interne déjà présent pour le rendre
+          opératoire. Jinx devient alors un point d’articulation entre les
+          tensions internes de Zaun et ses tensions externes avec Piltover.
         </p>
       </section>
 
@@ -947,40 +939,38 @@ export default function JinxSystemPage() {
       </section>
       <section>
         <h2>Vi ↔ Jinx : fracture interne de Zaun</h2>
+
         <p>
           La relation entre Vi et Jinx n’est pas un simple conflit personnel. Vi
-          représente la continuité de Powder : un lien ancien, préservé malgré
-          l’effondrement du territoire. Jinx, elle, incarne la version
-          radicalisée née de Zaun après la chute des stabilisateurs internes.
-          Leur opposition n’est pas idéologique : Vi cherche à restaurer un mode
-          antérieur, tandis que Jinx fonctionne selon la logique d’un
-          environnement où la rupture est devenue la seule réponse possible.
-        </p>
-        <p>
-          Vi cherche à maintenir un lien, à préserver une continuité avec le
-          Zaun vulnérable d’avant la chute. Jinx, elle, fonctionne comme
-          l’expression d’un Zaun qui a perdu ses médiateurs, ses repères et ses
-          structures internes. Leur opposition n’est pas morale : elle est
-          structurelle. Elles représentent deux réponses divergentes à un même
-          environnement instable.
+          cherche à retrouver Powder : un lien antérieur, formé avant la
+          rupture. Jinx, elle, fonctionne selon la logique d’un milieu
+          transformé par la disparition de ses stabilisateurs internes. Leur
+          opposition n’est pas idéologique : Vi tente de réactiver un mode
+          antérieur, tandis que Jinx opère dans un environnement où la rupture
+          est devenue la réponse fonctionnelle.
         </p>
 
         <p>
-          Cette fracture interne affaiblit Zaun. Vi porte la mémoire d’un
-          territoire qui aurait pu se stabiliser. Jinx porte la logique d’un
-          territoire qui n’a plus rien à perdre. Leur confrontation est
-          l’illustration d’un conflit géopolitique interne : cohésion contre
-          fragmentation, reconstruction contre radicalisation, continuité contre
-          rupture.
+          Leur incompatibilité n’est pas morale : elle est structurelle. Elles
+          incarnent deux trajectoires issues du même environnement, devenues
+          incompatibles lorsque les repères internes de Zaun se sont effacés.
         </p>
 
         <p>
-          Dans cette dynamique, Jinx ne s’oppose pas à Vi : elle fonctionne
-          selon la logique d’un Zaun transformé par la perte de ses
-          stabilisateurs internes. Vi ne s’oppose pas à Jinx : elle porte la
-          continuité d’un mode antérieur, formé avant la fragmentation du
-          territoire. Leur relation exprime deux trajectoires issues du même
-          environnement mais devenues incompatibles lorsque Zaun s’est effondré.
+          Cette fracture interne affaiblit Zaun non par conflit personnel, mais
+          par divergence de modes : Vi maintient une continuité relationnelle
+          antérieure, Jinx exprime la logique d’un milieu réorganisé autour de
+          la rupture. Leur confrontation révèle deux formes de réponse à un même
+          contexte, impossibles à réconcilier une fois la structure interne du
+          milieu transformée.
+        </p>
+
+        <p>
+          Dans cette dynamique, Jinx ne s’oppose pas à Vi : elle suit la logique
+          du milieu post‑rupture. Vi ne s’oppose pas à Jinx : elle suit la
+          continuité d’un lien antérieur. Leur relation exprime deux modes
+          devenus incompatibles lorsque Zaun a perdu ses stabilisateurs
+          internes.
         </p>
       </section>
       <section>
@@ -989,7 +979,7 @@ export default function JinxSystemPage() {
         <p>
           La saison 1 d’Arcane est construite comme un système psychologique et
           politique : Powder et Jinx y apparaissent comme les états successifs
-          d’un même système, configuré par ses fragilités internes et par le
+          d’un même système, configuré par ses failles internes et par le
           contexte Zaun/Piltover. Le succès massif de cette saison a entraîné un
           changement de direction pour la saison 2, qui devient moins politique
           et plus émotionnelle, avec une volonté claire d’élargir l’audience.
@@ -1008,19 +998,20 @@ export default function JinxSystemPage() {
           La saison 1 montre pourtant que Powder existe encore en Jinx : elle
           réapparaît dans les moments de panique, de culpabilité ou de
           confrontation avec Vi. Mais cette Powder n’est pas une version “pure”
-          ou “innocente” du personnage : elle est marquée par le trauma, la
-          dissociation et la fragilité qui ont conduit à la naissance de Jinx.
-          Elle n’existe plus comme identité stable ou récupérable, seulement
-          comme un fragment instable. La saison 2 construit donc une Powder
-          idéalisée qui n’a jamais existé dans la logique de la saison 1.
+          ou “innocente” du personnage : elle est marquée par des failles
+          internes, une dissociation et une fragilité qui ont conduit à la
+          naissance de Jinx. Elle n’existe plus comme identité cohérente ou
+          récupérable, seulement comme un fragment non structuré. La saison 2
+          construit donc une Powder idéalisée qui n’a jamais existé dans la
+          logique de la saison 1.
         </p>
 
         <p>
           Silco n’accepte que Jinx tandis que Vi cherche Powder : cette tension
           montre que Powder est toujours présente en Jinx, mais sous une forme
-          instable et fragmentée. La saison 1 construit précisément cette
+          résiduelle et fragmentée. La saison 1 construit précisément cette
           coexistence : Powder n’a pas disparu, mais elle n’existe plus comme
-          identité autonome ou retrouvable.
+          identité opératoire ou retrouvable.
         </p>
 
         <p>
@@ -1030,25 +1021,25 @@ export default function JinxSystemPage() {
           Powder, à prouver que “du bon” subsiste en Jinx, et à rendre le
           personnage plus acceptable pour Vi et pour le public. Pourtant, Powder
           n’a jamais été stable dans la saison 1 : elle est construite comme une
-          enfant déjà fragile, anxieuse et instable, dont la trajectoire mène
-          naturellement à Jinx. Structurellement, Isha ne peut donc pas avoir un
-          tel impact sur Powder, car elle repose sur une version idéalisée de
-          Powder qui n’a jamais existé. Powder est définie par un trauma
-          fondateur qui structure toute sa trajectoire, et non par un état
-          antérieur sain auquel Jinx pourrait revenir. Isha fonctionne aussi
-          comme un outil de rédemption : elle permet de présenter Jinx sous un
-          angle moralement “sauvable”, ce qui transforme Powder en innocence
-          retrouvable et contredit la logique tragique de la saison 1.
+          enfant déjà fragile, anxieuse et non autonome, dont la trajectoire
+          mène naturellement à Jinx. Structurellement, Isha ne peut donc pas
+          avoir un tel impact sur Powder, car elle repose sur une version
+          idéalisée de Powder qui n’a jamais existé. Powder est définie par une
+          rupture fondatrice qui structure toute sa trajectoire, et non par un
+          état antérieur sain auquel Jinx pourrait revenir. Isha fonctionne
+          aussi comme un outil de réécriture : elle permet de présenter Jinx
+          sous un angle moralement “sauvable”, ce qui transforme Powder en
+          innocence retrouvable et contredit la logique tragique de la saison 1.
         </p>
 
         <p>
           La mort d’Isha confirme ce déplacement. Dans la logique de la saison
-          1, une perte traumatique aurait déclenché chez Jinx une nouvelle crise
-          de dissociation, de chaos, d’explosion. Dans la saison 2, la mort
-          d’Isha conduit plutôt à une tristesse “classique” et à un désir de
-          mourir. Ce n’est plus la dynamique interne de Jinx telle qu’elle avait
-          été construite, mais une trajectoire de rédemption tragique imposée de
-          l’extérieur.
+          1, une perte déstabilisante aurait déclenché chez Jinx une nouvelle
+          crise de dissociation, de chaos, d’explosion. Dans la saison 2, la
+          mort d’Isha conduit plutôt à une tristesse “classique” et à un désir
+          de mourir. Ce n’est plus la dynamique interne de Jinx telle qu’elle
+          avait été construite, mais une trajectoire de rédemption tragique
+          imposée de l’extérieur.
         </p>
 
         <p>
@@ -1058,9 +1049,10 @@ export default function JinxSystemPage() {
           pas présente dans la première saison. Ekko finit par accepter Powder
           dans la saison 2, mais uniquement après avoir vu cette version
           alternative idéalisée, ce qui confirme que la série construit une
-          Powder plus douce et plus stable que celle, traumatisée et instable,
-          de la saison 1. On ne suit plus la continuité psychologique d’un même
-          sujet brisé, mais une opposition simplifiée entre deux figures
+          Powder plus douce et plus structurée que celle, marquée par des
+          failles internes et une profonde non‑cohérence structurelle, de la
+          saison 1. On ne suit plus la continuité structurelle d’un même sujet
+          discontinu, mais une opposition simplifiée entre deux figures
           symboliques.
         </p>
 
@@ -1070,10 +1062,11 @@ export default function JinxSystemPage() {
           de l’audience, adoucissement du personnage) modifient la cohérence
           interne du personnage : Powder et Jinx sont séparées artificiellement,
           et Isha fonctionne comme un outil de réécriture morale et de
-          rédemption plutôt que comme un prolongement naturel de la psychologie
+          rédemption plutôt que comme un prolongement naturel du système interne
           de Jinx.
         </p>
       </section>
+
       <section>
         <h2>Synthèse</h2>
         <p>
