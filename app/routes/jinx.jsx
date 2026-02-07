@@ -775,9 +775,9 @@ export default function JinxSystemPage() {
           instrumentalisation renforce le cadrage moral en donnant à la
           rébellion une figure “dangereuse”, alors qu’elle n’est que la
           conséquence cohérente d’un système opprimé qui a perdu ses
-          stabilisateurs internes. Cette stabilisation n’est pas une forme de
-          libération : elle ne fait que maintenir la cohésion interne dans un
-          système qui reste oppressif.
+          stabilisateurs internes. Cette stabilisation n’était pas une forme de
+          libération : elle ne faisait que maintenir la cohésion interne dans un
+          système qui restait oppressif.
         </p>
 
         <p>
