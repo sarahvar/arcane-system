@@ -769,7 +769,10 @@ export default function JinxSystemPage() {
           conséquence cohérente d’un système opprimé qui a perdu ses
           stabilisateurs internes. Cette stabilisation n’était pas une forme de
           libération : elle ne faisait que maintenir la cohésion interne dans un
-          système qui restait oppressif.
+          système qui restait oppressif. <br />
+          De la même manière, la série instrumentalise l’histoire elle-même :
+          elle utilise la radicalité de Silco comme point d’appui narratif pour
+          produire une morale extérieure sur l’indépendance et ses “dérives”.
         </p>
 
         <p>
@@ -1066,16 +1069,43 @@ export default function JinxSystemPage() {
           de Jinx.
         </p>
       </section>
-
       <section>
         <h2>Synthèse</h2>
+
         <p>
-          Jinx n’est pas “irrationnelle”. Elle fonctionne comme un système qui a
-          été brisé, reconstruit, puis poussé à ses limites. Ses réactions sont
-          la conséquence directe de forces internes et externes qui tirent dans
-          des directions opposées. Elle ne cherche pas la cohérence : elle
-          cherche à survivre dans un système qui ne lui laisse aucun état
-          stable.
+          Jinx ne réagit pas de manière irrationnelle. Elle fonctionne comme un
+          système dont l’équilibre interne a été interrompu, puis reconstruit
+          autour d’un mode de survie. Ce changement n’est pas émotionnel : c’est
+          une adaptation forcée après la disparition des repères qui
+          permettaient à Powder d’exister.
+        </p>
+
+        <p>
+          Quand certains éléments du passé réapparaissent — un nom, un geste,
+          une posture — cela réactive automatiquement ce qui reste du mode
+          Powder. Ce n’est pas un retour à une ancienne identité, mais
+          l’activation d’un ancien fonctionnement qui n’est plus compatible avec
+          la situation actuelle. Cette activation crée une surcharge interne,
+          qui déclenche immédiatement le mode Jinx.
+        </p>
+
+        <p>
+          Le système se retrouve alors pris entre deux réponses opposées :
+          l’ancienne manière de fonctionner (Powder) et la réponse de protection
+          développée ensuite (Jinx). Ces deux réponses coexistent, mais aucune
+          ne peut redevenir exclusive. Powder n’existe plus comme identité
+          complète, seulement comme un reste qui peut être réactivé ; Jinx
+          s’active dès que le système détecte que le mode Powder ne peut plus
+          être maintenu. Il n’y a plus de retour possible à un état antérieur.
+        </p>
+
+        <p>
+          Ainsi, Jinx ne cherche pas la cohérence : elle cherche simplement à
+          rester fonctionnelle dans un environnement qui ne lui offre aucune
+          structure. Ses actions sont le résultat direct de tensions internes et
+          externes incompatibles. Ce n’est pas du chaos psychologique : c’est un
+          système réorganisé qui tente de se maintenir dans des conditions où
+          aucun équilibre durable n’est possible.
         </p>
       </section>
     </div>
