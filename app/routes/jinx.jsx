@@ -1174,8 +1174,8 @@ export default function JinxSystemPage() {
           anxieuse et en manque de stabilisateur : la disparition de Vi aurait
           amplifié un état interne déjà fissuré, plutôt que constituer une
           rupture supplémentaire. On ne suit plus la continuité structurelle
-          d’un même sujet discontinu, mais une opposition simplifiée entre deux
-          figures symboliques.
+          d’un même personnage déjà fissuré, mais une opposition simplifiée
+          entre deux figures symboliques.
         </p>
 
         <p>
