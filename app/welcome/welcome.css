@@ -21,7 +21,10 @@ main {
 }
 
 .welcome h1 {
-  margin-bottom: 1.8rem; /* ton aération existante */
+  margin-bottom: 1.8rem;
+  padding: 0.8rem 1.2rem;
+  border: 1px solid #888;
+  display: inline-block;
 }
 
 .welcome h2 {
