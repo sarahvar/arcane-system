@@ -1058,6 +1058,16 @@ export default function JinxSystemPage() {
           statue détourne cette lecture en transformant la rébellion en dilemme
           familial.
         </p>
+        <p>
+          Ce cadrage est renforcé par la scène finale du conseil : Piltover
+          accepte finalement l’indépendance de Zaun, mais l’attaque de Jinx est
+          présentée comme l’événement qui “gâche” la paix possible. Le récit
+          encode ainsi l’idée que le colon était prêt à concéder la liberté,
+          tandis que la rebelle, trop radicale, détruit la solution raisonnable.
+          La responsabilité de l’échec est déplacée de la structure coloniale
+          vers une figure individuelle, comme si la domination pouvait être
+          levée et que seule la violence insurgée empêchait la résolution.
+        </p>
 
         <p>
           Le récit présente la radicalité comme un excès individuel, non comme
