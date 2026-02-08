@@ -1185,7 +1185,7 @@ export default function JinxSystemPage() {
           interne du personnage : Powder et Jinx sont séparées artificiellement,
           et Isha fonctionne comme un outil de réécriture morale et de
           rédemption plutôt que comme un prolongement naturel du système interne
-          de Jinx.
+          de Jinx construit en saison 1.
         </p>
       </section>
       <section>
