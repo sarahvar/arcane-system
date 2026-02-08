@@ -1012,6 +1012,11 @@ export default function JinxSystemPage() {
           le pont, et où la domination coloniale est présentée comme un fait
           accompli.
         </p>
+        <p>
+          La scène suivante rompt brutalement avec ce cadre politique et déplace
+          l’enjeu vers Silco lui‑même, en réorientant la lecture du conflit à
+          travers sa relation à Jinx.
+        </p>
       </section>
       <section>
         <h2>De la négociation à la statue : le déplacement du conflit</h2>
