@@ -17,7 +17,12 @@ export default function JinxSystemPage() {
     <div className="jinx-page">
       <header>
         <h1>Powder et Jinx — Comprendre les deux modes internes</h1>
-        <p>Un système construit autour de deux pôles identitaires opposés</p>
+        <p>
+          Cette analyse suit le cadre général défini en introduction : un
+          personnage est abordé comme un système composé de structure, patterns,
+          vécu et contexte.
+        </p>
+        <h2>Un système construit autour de deux pôles identitaires opposés</h2>
       </header>
       <nav className="char-navbar">
         <div className="nav-logo">Navigation</div>
