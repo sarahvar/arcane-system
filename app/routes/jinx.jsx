@@ -783,6 +783,97 @@ export default function JinxSystemPage() {
         </p>
       </section>
       <section>
+        <h2>Jayce, Silco et la tête du serpent</h2>
+        <p>
+          Dans la scène de négociation, Silco tente de protéger Jinx en assumant
+          la responsabilité de ses actes : il affirme qu’elle n’est en rien
+          responsable et qu’elle ne faisait que travailler pour lui. Il se place
+          explicitement comme auteur et chef du mouvement. Jayce refuse cette
+          prise en charge : il déclare que, s’il en avait le pouvoir, il
+          enverrait Silco à Stillwater. Jayce ne peut ni tuer ni arrêter Silco :
+          toute action directe déclencherait une guerre totale, et il n’a pas
+          l’autorité pour neutraliser un chef d’État de facto. La négociation
+          devient donc un dispositif de domination où Jayce doit obtenir une
+          preuve de soumission sans toucher à Silco. Il désigne Silco comme la
+          tête du serpent c’est-à-dire comme le centre politique de la
+          rébellion et exige Jinx comme condition de paix : elle devient la
+          cible symbolique que Piltover peut réclamer pour stabiliser son
+          pouvoir.
+        </p>
+
+        <p>
+          C’est pour cette raison que la condition imposée n’est pas la
+          neutralisation de Silco, mais la livraison de Jinx. Silco est le
+          leader de Zaun, mais Jinx en est le symbole : elle incarne la rupture,
+          la radicalité et la possibilité d’un Zaun indépendant. Exiger Jinx
+          revient à neutraliser la figure insurgée que Piltover ne peut pas
+          atteindre directement. La série inscrit cette logique dans un univers
+          où Piltover gagne toujours, comme le montre la scène d’ouverture sur
+          le pont, et où la domination coloniale est présentée comme un fait
+          accompli.
+        </p>
+      </section>
+      <section>
+        <h2>De la négociation à la statue : le déplacement du conflit</h2>
+        <p>
+          Cette scène constitue un pivot du cadrage moral d’Arcane. Silco, assis
+          au pied de la statue de Vander, affirme comprendre pourquoi ce dernier
+          refusait la guerre. Le récit utilise ce moment pour réorienter la
+          dynamique géopolitique vers une lecture morale : Silco est présenté
+          comme « extrême », Vander comme « sage », et Jinx comme la « faiblesse
+          » qui ramène Silco vers la soumission.
+        </p>
+
+        <p>
+          Ce retournement n’exprime pas une vérité structurelle : il s’agit d’un
+          dispositif narratif qui transforme Jinx en justification morale d’un
+          renoncement politique. La scène efface la logique géopolitique qui
+          produit la radicalité de Zaun et la remplace par une lecture
+          émotionnelle centrée sur la loyauté, la filiation et la culpabilité.
+        </p>
+
+        <p>
+          En plaçant Silco sous la statue de Vander, la série matérialise la
+          hiérarchie morale qu’elle construit : Vander devient la figure de la «
+          bonne » soumission, Silco celle de la « mauvaise » rébellion, et Jinx
+          l’élément perturbateur qui invalide la lutte pour l’indépendance. Le
+          conflit politique est ainsi reconfiguré en dilemme moral, au détriment
+          de la dynamique structurelle qui façonne réellement Zaun.
+        </p>
+      </section>
+      <section>
+        <h2>Méta-narrative : comment Arcane moralise la domination</h2>
+
+        <p>
+          La juxtaposition des deux scènes révèle un mécanisme méta-narratif
+          central : Arcane remplace la dynamique géopolitique du conflit
+          Piltover–Zaun par un cadrage moral. La négociation expose une logique
+          coloniale explicite où Piltover impose ses conditions, menace Zaun et
+          exige la neutralisation d’un symbole insurgé. Mais la scène de la
+          statue détourne cette lecture en transformant la rébellion en dilemme
+          familial.
+        </p>
+
+        <p>
+          Le récit présente la radicalité comme un excès individuel, non comme
+          une conséquence structurelle de l’oppression. Vander devient la figure
+          de la soumission “sage”, Silco celle de la rébellion “dangereuse”, et
+          Jinx la faiblesse qui invalide la lutte. La série moralise ainsi un
+          conflit politique en le ramenant à des enjeux affectifs, effaçant la
+          domination systémique de Piltover.
+        </p>
+
+        <p>
+          Cette moralisation est renforcée par la scène d’ouverture sur le pont,
+          où Piltover écrase Zaun sans effort. Le monde d’Arcane encode la
+          victoire du dominant comme un fait naturel : Piltover gagne toujours,
+          Zaun perd toujours. La rébellion est vouée à l’échec, non pour des
+          raisons structurelles, mais parce qu’elle est présentée comme
+          moralement erronée. La série transforme ainsi la domination coloniale
+          en leçon de sagesse.
+        </p>
+      </section>
+      <section>
         <h2>Identité interne modulée / Identité politique stabilisée</h2>
 
         <p>

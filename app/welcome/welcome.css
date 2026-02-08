@@ -11,22 +11,32 @@ main {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  padding: 2rem;
-  
+
+  padding: 0rem 2rem 2rem 2rem; 
+  /* top | right | bottom | left */
 }
 
 .welcome {
   text-align: center;
 }
 
-/* Titre principal */
 .welcome h1 {
-  font-size: 2.4rem;
-  font-weight: 600;
-  margin-bottom: 1rem;
-  color: #d18f5c; /* bronze clair pour le titre */
+  margin-bottom: 1.8rem; /* ton aération existante */
 }
 
+.welcome h2 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  margin-bottom: 2.5rem; /* espace au-dessus et en dessous */
+  color: #c0804a; /* légèrement plus doux que le h1 */
+}
+
+.welcome p {
+  line-height: 1.7; /* texte plus respirant */
+  margin-top: .4rem; /* espace entre les paragraphes */
+  margin-left: auto;
+  margin-right: auto; /* centrage propre */
+}
 /* Sous-texte */
 .subtitle {
   font-size: 1.1rem;
