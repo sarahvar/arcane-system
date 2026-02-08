@@ -1156,7 +1156,6 @@ export default function JinxSystemPage() {
           avait été construite, mais une trajectoire de rédemption tragique
           imposée de l’extérieur.
         </p>
-
         <p>
           L’épisode 7 renforce cette séparation artificielle : Ekko y voit une
           version alternative de Powder, distincte de Jinx. Cette mise en scène
@@ -1166,9 +1165,17 @@ export default function JinxSystemPage() {
           alternative idéalisée, ce qui confirme que la série construit une
           Powder plus douce et plus structurée que celle, marquée par des
           failles internes et une profonde non‑cohérence structurelle, de la
-          saison 1. On ne suit plus la continuité structurelle d’un même sujet
-          discontinu, mais une opposition simplifiée entre deux figures
-          symboliques.
+          saison 1. L’épisode ne traite d’ailleurs pas la base structurelle du
+          système Powder/Jinx — la mort de ses parents sur le pont — et réécrit
+          la mort supposée de Vi lors du cambriolage chez Jayce comme un choc
+          émotionnel pour une Powder épanouie. Or l’épisode 7 montre une Powder
+          simplement affectée par la perte de sa sœur, mais sans effondrement
+          structurel, alors que la Powder de la saison 1 était déjà instable,
+          anxieuse et en manque de stabilisateur : la disparition de Vi aurait
+          amplifié un état interne déjà fissuré, plutôt que constituer une
+          rupture supplémentaire. On ne suit plus la continuité structurelle
+          d’un même sujet discontinu, mais une opposition simplifiée entre deux
+          figures symboliques.
         </p>
 
         <p>
