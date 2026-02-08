@@ -14,7 +14,7 @@ export function Welcome() {
             mode de fonctionnement structuré autour de quatre éléments :
           </p>
 
-          <ul>
+          <ul className="system-list">
             <li>
               <strong>Structure interne :</strong> fondations et modes
               possibles.
