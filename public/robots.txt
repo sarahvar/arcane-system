@@ -4,4 +4,4 @@ Allow: /
 # Host
 Host: https://arcane-systeme.netlify.app/
 
-Sitemap: https://arcane-systeme.netlify/sitemap.xml
+Sitemap: https://arcane-systeme.netlify.app/sitemap.xml
